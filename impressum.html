@@ -3,38 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Legal / Impressum</title>
+    <title>Impressum / Legal Notice - Mapthusiast</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
-        header { border-bottom: 2px solid #eee; padding-bottom: 20px; }
+        body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #333; }
+        header { border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
         footer { margin-top: 50px; font-size: 0.8em; border-top: 1px solid #eee; padding-top: 20px; }
-        h2 { color: #2c3e50; margin-top: 30px; }
-        h3 { color: #34495e; }
+        h2 { color: #2c3e50; margin-top: 40px; border-left: 4px solid #007bff; padding-left: 10px; font-size: 1.4em; }
+        .lang-en { color: #666; font-style: italic; display: block; margin-top: 2px; font-size: 0.9em; }
         .back-link { display: inline-block; margin-bottom: 20px; text-decoration: none; color: #007bff; }
+        .info-block { margin-bottom: 25px; }
+        strong { display: block; margin-bottom: 5px; }
     </style>
 </head>
 <body>
     <header>
-        <h1>Legal / Impressum</h1>
+        <a href="index.html" class="back-link">&larr; Back to Home / Zurück zur Startseite</a>
+        <h1>Impressum <span style="font-weight: normal; font-size: 0.7em; color: #666;">/ Legal Notice</span></h1>
     </header>
+    
     <main>
-        <h2>Impressum</h2>
-        <ul>
-            <li>Nicolas Michel Birk Huber</li>
-            <li>Mapthusiast</li>
-            <li>Isarstrasse 37</li>
-            <li>14612 Falkensee, Germany</li>
-        </ul>
-        
-        <h2>Contact</h2>
-        <ul>
-            <li>E-Mail: info@mapthusiast.com</li>
-            <li>Phone: +49 (0) 179/3659860</li>
-        </ul>
-    </main>
+        <section class="info-block">
+            <h2>Angaben gemäß § 5 DDG <span class="lang-en">Information according to § 5 DDG</span></h2>
+            <p>
+                <strong>Name & Betreiber / Proprietor:</strong>
+                Nicolas Huber<br>
+                Mapthusiast
+            </p>
+            <p>
+                <strong>Anschrift / Address:</strong>
+                Isarstr. 37<br>
+                14612 Falkensee<br>
+                Germany
+            </p>
+        </section>
 
-    <footer>
-        <p>&copy; 2026 Mapthusiast | <a href="index.html">Main Page</a> | <a href="datenschutz.html">Privacy / Datenschutz</a></p>
-    </footer>
-</body>
-</html>
+        <section class="info-block">
+            <h2>Kontakt <span class="lang-en">Contact</span></h2>
+            <p>
+                <strong>Telefon / Phone:</strong>
+                +49 179/3659860
+            </p>
+            <p>
+                <strong>E-Mail:</strong>
+                info@mapthusiast.com
+            </p>
+        </section>
+
+        <section class="info-block">
+            <h2>Umsatzsteuer-Identifikationsnummer <span class="lang-en">VAT Identification Number</span></h2>
+            <p>
+                Gemäß § 19 UStG wird keine Umsatzsteuer erhoben und folglich keine Umsatzsteuer-Identifikationsnummer ausgewiesen.<br>
+                <span class="lang-en">According to § 19 UStG (Small Business Act), no VAT is charged and therefore
