@@ -9,6 +9,15 @@
         body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
         header { border-bottom: 2px solid #eee; padding-bottom: 20px; }
         footer { margin-top: 50px; font-size: 0.8em; border-top: 1px solid #eee; padding-top: 20px; }
+        
+        .announcement {
+            background-color: #f9f9f9;
+            border-left: 5px solid #171a21;
+            padding: 20px;
+            margin: 30px 0;
+            border-radius: 4px;
+        }
+
         .social-links {
             display: flex;
             gap: 20px;
@@ -23,12 +32,13 @@
             transition: color 0.3s ease;
         }
         
-        /* Farben beim Drüberfahren */
-        .social-links a:hover { color: #007bff; } /* Blau als Standard-Hover */
+        /* Hover Colors */
+        .social-links a:hover { color: #007bff; }
         .fa-youtube:hover { color: #FF0000 !important; }
         .fa-discord:hover { color: #5865F2 !important; }
         .fa-pinterest:hover { color: #E60023 !important; }
-        .fa-map:hover { color: #27ae60 !important; } /* Farbe für CartographyAssets */
+        .fa-steam:hover { color: #171a21 !important; }
+        .fa-map:hover { color: #27ae60 !important; }
     </style>
 </head>
 <body>
@@ -37,21 +47,12 @@
     </header>
     
     <main>
-        <h2>About</h2>
-        <p>Mapthusiast develops digital tools, designed to visualize your world.</p>
-    </main>
+        <section>
+            <h2>About</h2>
+            <p>Mapthusiast develops digital tools, designed to visualize your world.</p>
+        </section>
 
-    <footer>
-        <div class="social-links">
-            <a href="https://www.youtube.com/@PhairosStudio" target="_blank" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
-            
-            <a href="https://discord.gg/8kqdmrAPq5" target="_blank" title="Discord"><i class="fa-brands fa-discord"></i></a>
-            
-            <a href="https://de.pinterest.com/Mapthusiast/" target="_blank" title="Pinterest"><i class="fa-brands fa-pinterest"></i></a>
-            
-            <a href="https://cartographyassets.com/creator/mapthusiast/" target="_blank" title="CartographyAssets"><i class="fa-solid fa-map"></i></a>
-        </div>
-        <p>&copy; 2026 Mapthusiast | <a href="impressum.html">Legal / Impressum</a> | <a href="datenschutz.html">Privacy / Datenschutz</a></p>
-    </footer>
-</body>
-</html>
+        <section class="announcement">
+            <h2>🚀 Latest News: Phairos Studio is on Steam!</h2>
+            <p>We are thrilled to announce that our flagship visualization program, <strong>Phairos Studio</strong>, has officially launched on Steam. Start creating and visualizing your worlds today!</p>
+            <p
