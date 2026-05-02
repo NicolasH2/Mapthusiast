@@ -130,7 +130,7 @@
         .icon-circle {
             width: 45px;
             height: 45px;
-            background-color: #c5a059; /* Gold color from your image */
+            background-color: #c5a059;
             color: white;
             border-radius: 50%;
             display: flex;
@@ -138,6 +138,9 @@
             align-items: center;
             margin-right: 15px;
             font-size: 18px;
+            /* --- Add these two lines --- */
+            flex-shrink: 0; 
+            min-width: 45px;
         }
         
         .contact-text {
@@ -149,6 +152,27 @@
             font-weight: normal;
             font-size: 0.85em;
             color: #888;
+        }
+
+        /* Responsive Video Container */
+        .video-container {
+            max-width: 450px; /* Matches the width of your business card */
+            margin: 20px auto 40px; /* Centers it and adds space */
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+            height: 0;
+            overflow: hidden;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
         }
     </style>
 </head>
@@ -176,7 +200,7 @@
                 <!-- Links -->
                 <a href="https://store.steampowered.com/app/4541480/Phairos_Studio" class="contact-item">
                     <div class="icon-circle"><i class="fa-brands fa-steam"></i></div>
-                    <span class="contact-text">Flagship Software - Phairos Studio on Steam</span>
+                    <span class="contact-text">Phairos Studio on Steam</span>
                 </a>
         
                 <a href="https://www.youtube.com/@PhairosStudio" class="contact-item">
@@ -198,11 +222,17 @@
                 </a>
             </div>
         </section>
-        
-        <section>
-            <h2>About</h2>
-            <p>Mapthusiast develops digital tools, designed to visualize your world.</p>
-        </section>
+
+        <!-- YouTube Embed Section -->
+        <h2 class="video-title">Phairos Studio in action - remapping the old world</h2>
+        <div class="video-container">
+            <iframe 
+                src="https://www.youtube.com/embed/5ZWy5aLu4Pc?si=2Hb0ZqYHAkZUgg9-" 
+                title="Phairos Studio Trailer" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen>
+            </iframe>
+        </div>
 
         <section class="announcement">
             <h2>🚀 Phairos Studio is now on Steam!</h2>
