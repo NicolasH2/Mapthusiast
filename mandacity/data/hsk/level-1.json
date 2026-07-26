@@ -1,0 +1,6710 @@
+{
+  "level": 1,
+  "standard": "new",
+  "generatedAt": "2026-07-26T16:40:39.244Z",
+  "wordCount": 500,
+  "words": [
+    {
+      "id": "爱",
+      "simplified": "爱",
+      "traditional": "愛",
+      "pinyin": "ài",
+      "pinyinNumeric": "ai4",
+      "pos": [],
+      "meanings": [
+        "to love; to be fond of; to like",
+        "affection",
+        "to be inclined (to do sth); to tend to (happen)"
+      ]
+    },
+    {
+      "id": "爱好",
+      "simplified": "爱好",
+      "traditional": "愛好",
+      "pinyin": "ài hào",
+      "pinyinNumeric": "ai4 hao4",
+      "pos": [],
+      "meanings": [
+        "to like; to be fond of; to take pleasure in; to be keen on",
+        "interest; hobby"
+      ]
+    },
+    {
+      "id": "八",
+      "simplified": "八",
+      "traditional": "八",
+      "pinyin": "bā",
+      "pinyinNumeric": "ba1",
+      "pos": [],
+      "meanings": [
+        "eight"
+      ]
+    },
+    {
+      "id": "爸爸",
+      "simplified": "爸爸",
+      "traditional": "爸爸",
+      "pinyin": "bà ba",
+      "pinyinNumeric": "ba4 ba5",
+      "pos": [],
+      "meanings": [
+        "(coll.) father; dad",
+        "CL:位[wei4]"
+      ]
+    },
+    {
+      "id": "吧",
+      "simplified": "吧",
+      "traditional": "吧",
+      "pinyin": "ba",
+      "pinyinNumeric": "ba5",
+      "pos": [],
+      "meanings": [
+        "(modal particle indicating suggestion or surmise)",
+        "...right?",
+        "...OK?",
+        "...I presume."
+      ]
+    },
+    {
+      "id": "白",
+      "simplified": "白",
+      "traditional": "白",
+      "pinyin": "bái",
+      "pinyinNumeric": "bai2",
+      "pos": [],
+      "meanings": [
+        "white",
+        "snowy",
+        "pure",
+        "bright",
+        "empty",
+        "blank",
+        "plain",
+        "clear",
+        "to make clear",
+        "in vain",
+        "gratuitous",
+        "free of charge",
+        "reactionary",
+        "anti-communist",
+        "funeral",
+        "to stare coldly",
+        "to write wrong character",
+        "to state",
+        "to explain",
+        "vernacular",
+        "spoken lines in opera"
+      ]
+    },
+    {
+      "id": "白天",
+      "simplified": "白天",
+      "traditional": "白天",
+      "pinyin": "bái tiān",
+      "pinyinNumeric": "bai2 tian1",
+      "pos": [],
+      "meanings": [
+        "daytime",
+        "during the day",
+        "day",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "百",
+      "simplified": "百",
+      "traditional": "百",
+      "pinyin": "bǎi",
+      "pinyinNumeric": "bai3",
+      "pos": [],
+      "meanings": [
+        "hundred",
+        "numerous",
+        "all kinds of"
+      ]
+    },
+    {
+      "id": "班",
+      "simplified": "班",
+      "traditional": "班",
+      "pinyin": "bān",
+      "pinyinNumeric": "ban1",
+      "pos": [],
+      "meanings": [
+        "team; class; grade",
+        "(military) squad",
+        "work shift",
+        "classifier for groups of people and scheduled transport vehicles"
+      ]
+    },
+    {
+      "id": "半",
+      "simplified": "半",
+      "traditional": "半",
+      "pinyin": "bàn",
+      "pinyinNumeric": "ban4",
+      "pos": [],
+      "meanings": [
+        "half",
+        "semi-",
+        "incomplete",
+        "(after a number) and a half"
+      ]
+    },
+    {
+      "id": "半年",
+      "simplified": "半年",
+      "traditional": "半年",
+      "pinyin": "bàn nián",
+      "pinyinNumeric": "ban4 nian2",
+      "pos": [],
+      "meanings": [
+        "half a year"
+      ]
+    },
+    {
+      "id": "半天",
+      "simplified": "半天",
+      "traditional": "半天",
+      "pinyin": "bàn tiān",
+      "pinyinNumeric": "ban4 tian1",
+      "pos": [],
+      "meanings": [
+        "half of the day",
+        "a long time",
+        "quite a while",
+        "midair",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "帮",
+      "simplified": "帮",
+      "traditional": "幇",
+      "pinyin": "bāng",
+      "pinyinNumeric": "bang1",
+      "pos": [],
+      "meanings": [
+        "old variant of 幫|帮[bang1]"
+      ]
+    },
+    {
+      "id": "帮忙",
+      "simplified": "帮忙",
+      "traditional": "幫忙",
+      "pinyin": "bāng máng",
+      "pinyinNumeric": "bang1 mang2",
+      "pos": [],
+      "meanings": [
+        "to help",
+        "to lend a hand",
+        "to do a favor",
+        "to do a good turn"
+      ]
+    },
+    {
+      "id": "包",
+      "simplified": "包",
+      "traditional": "包",
+      "pinyin": "bāo",
+      "pinyinNumeric": "bao1",
+      "pos": [],
+      "meanings": [
+        "to cover",
+        "to wrap",
+        "to hold",
+        "to include",
+        "to take charge of",
+        "to contract (to or for)",
+        "package",
+        "wrapper",
+        "container",
+        "bag",
+        "to hold or embrace",
+        "bundle",
+        "packet",
+        "CL:個|个[ge4],隻|只[zhi1]"
+      ]
+    },
+    {
+      "id": "包子",
+      "simplified": "包子",
+      "traditional": "包子",
+      "pinyin": "bāo zi",
+      "pinyinNumeric": "bao1 zi5",
+      "pos": [],
+      "meanings": [
+        "baozi; bao (steamed stuffed bun)"
+      ]
+    },
+    {
+      "id": "杯",
+      "simplified": "杯",
+      "traditional": "杯",
+      "pinyin": "bēi",
+      "pinyinNumeric": "bei1",
+      "pos": [],
+      "meanings": [
+        "cup",
+        "trophy cup",
+        "classifier for certain containers of liquids: glass, cup"
+      ]
+    },
+    {
+      "id": "杯子",
+      "simplified": "杯子",
+      "traditional": "杯子",
+      "pinyin": "bēi zi",
+      "pinyinNumeric": "bei1 zi5",
+      "pos": [],
+      "meanings": [
+        "cup",
+        "glass",
+        "CL:個|个[ge4],隻|只[zhi1]"
+      ]
+    },
+    {
+      "id": "北",
+      "simplified": "北",
+      "traditional": "北",
+      "pinyin": "běi",
+      "pinyinNumeric": "bei3",
+      "pos": [],
+      "meanings": [
+        "north",
+        "(classical) to be defeated"
+      ]
+    },
+    {
+      "id": "北边",
+      "simplified": "北边",
+      "traditional": "北邊",
+      "pinyin": "běi biān",
+      "pinyinNumeric": "bei3 bian1",
+      "pos": [],
+      "meanings": [
+        "north",
+        "north side",
+        "northern part",
+        "to the north of"
+      ]
+    },
+    {
+      "id": "北京",
+      "simplified": "北京",
+      "traditional": "北京",
+      "pinyin": "Běi jīng",
+      "pinyinNumeric": "Bei3 jing1",
+      "pos": [],
+      "meanings": [
+        "Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])"
+      ]
+    },
+    {
+      "id": "本",
+      "simplified": "本",
+      "traditional": "本",
+      "pinyin": "běn",
+      "pinyinNumeric": "ben3",
+      "pos": [],
+      "meanings": [
+        "(bound form) root; stem",
+        "(bound form) origin; source",
+        "(bound form) one's own; this",
+        "(bound form) this; the current (year etc)",
+        "(bound form) original",
+        "(bound form) inherent",
+        "originally; initially",
+        "capital; principal",
+        "classifier for books, periodicals, files etc"
+      ]
+    },
+    {
+      "id": "本子",
+      "simplified": "本子",
+      "traditional": "本子",
+      "pinyin": "běn zi",
+      "pinyinNumeric": "ben3 zi5",
+      "pos": [],
+      "meanings": [
+        "book",
+        "notebook",
+        "Japanese-style self-published comic (esp. an erotic one), aka \"dōjinshi\"",
+        "CL:本[ben3]",
+        "edition"
+      ]
+    },
+    {
+      "id": "比",
+      "simplified": "比",
+      "traditional": "比",
+      "pinyin": "bǐ",
+      "pinyinNumeric": "bi3",
+      "pos": [],
+      "meanings": [
+        "to compare",
+        "(followed by a noun and adjective) more {adj.} than {noun}",
+        "ratio",
+        "to gesture",
+        "(Taiwan pr. [bi4] in some compounds derived from Classical Chinese)"
+      ]
+    },
+    {
+      "id": "别",
+      "simplified": "别",
+      "traditional": "別",
+      "pinyin": "bié",
+      "pinyinNumeric": "bie2",
+      "pos": [],
+      "meanings": [
+        "to leave; to part (from)",
+        "(literary) to differentiate; to distinguish",
+        "(dialect) to turn away; to turn aside; to avert (one's face, gaze etc)",
+        "(bound form) other; another; different",
+        "don't ...!",
+        "to fasten with a pin or clip",
+        "to stick in; to insert (in order to hinder movement)",
+        "(noun suffix) category (as in 性別|性别[xing4 bie2], 派別|派别[pai4 bie2])"
+      ]
+    },
+    {
+      "id": "别的",
+      "simplified": "别的",
+      "traditional": "別的",
+      "pinyin": "bié de",
+      "pinyinNumeric": "bie2 de5",
+      "pos": [],
+      "meanings": [
+        "else",
+        "other"
+      ]
+    },
+    {
+      "id": "别人",
+      "simplified": "别人",
+      "traditional": "別人",
+      "pinyin": "bié ren",
+      "pinyinNumeric": "bie2 ren5",
+      "pos": [],
+      "meanings": [
+        "other people; others; other person"
+      ]
+    },
+    {
+      "id": "病",
+      "simplified": "病",
+      "traditional": "病",
+      "pinyin": "bìng",
+      "pinyinNumeric": "bing4",
+      "pos": [],
+      "meanings": [
+        "illness",
+        "CL:場|场[chang2]",
+        "disease",
+        "to fall ill",
+        "defect"
+      ]
+    },
+    {
+      "id": "病人",
+      "simplified": "病人",
+      "traditional": "病人",
+      "pinyin": "bìng rén",
+      "pinyinNumeric": "bing4 ren2",
+      "pos": [],
+      "meanings": [
+        "sick person",
+        "patient",
+        "invalid",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "不",
+      "simplified": "不",
+      "traditional": "不",
+      "pinyin": "bù",
+      "pinyinNumeric": "bu4",
+      "pos": [],
+      "meanings": [
+        "no; not so",
+        "(bound form) not; un-"
+      ]
+    },
+    {
+      "id": "不大",
+      "simplified": "不大",
+      "traditional": "不大",
+      "pinyin": "bù dà",
+      "pinyinNumeric": "bu4 da4",
+      "pos": [],
+      "meanings": [
+        "not very (clear, far away etc); not too",
+        "not often; infrequently"
+      ]
+    },
+    {
+      "id": "不对",
+      "simplified": "不对",
+      "traditional": "不對",
+      "pinyin": "bù duì",
+      "pinyinNumeric": "bu4 dui4",
+      "pos": [],
+      "meanings": [
+        "incorrect",
+        "wrong",
+        "amiss",
+        "abnormal",
+        "queer"
+      ]
+    },
+    {
+      "id": "不客气",
+      "simplified": "不客气",
+      "traditional": "不客氣",
+      "pinyin": "bù kè qi",
+      "pinyinNumeric": "bu4 ke4 qi5",
+      "pos": [],
+      "meanings": [
+        "you're welcome",
+        "don't mention it",
+        "impolite",
+        "rude",
+        "blunt"
+      ]
+    },
+    {
+      "id": "不用",
+      "simplified": "不用",
+      "traditional": "不用",
+      "pinyin": "bù yòng",
+      "pinyinNumeric": "bu4 yong4",
+      "pos": [],
+      "meanings": [
+        "need not"
+      ]
+    },
+    {
+      "id": "菜",
+      "simplified": "菜",
+      "traditional": "菜",
+      "pinyin": "cài",
+      "pinyinNumeric": "cai4",
+      "pos": [],
+      "meanings": [
+        "vegetable; greens (CL:棵[ke1])",
+        "dish (of food) (CL:樣|样[yang4],道[dao4],盤|盘[pan2])",
+        "(of one's skills etc) weak; poor",
+        "(coll.) (one's) type"
+      ]
+    },
+    {
+      "id": "茶",
+      "simplified": "茶",
+      "traditional": "茶",
+      "pinyin": "chá",
+      "pinyinNumeric": "cha2",
+      "pos": [],
+      "meanings": [
+        "tea",
+        "tea plant",
+        "CL:杯[bei1],壺|壶[hu2]"
+      ]
+    },
+    {
+      "id": "差",
+      "simplified": "差",
+      "traditional": "差",
+      "pinyin": "chà",
+      "pinyinNumeric": "cha4",
+      "pos": [],
+      "meanings": [
+        "different",
+        "wrong; mistaken",
+        "to fall short; to lack",
+        "not up to standard; inferior",
+        "Taiwan pr. [cha1]"
+      ]
+    },
+    {
+      "id": "常",
+      "simplified": "常",
+      "traditional": "常",
+      "pinyin": "cháng",
+      "pinyinNumeric": "chang2",
+      "pos": [],
+      "meanings": [
+        "always",
+        "ever",
+        "often",
+        "frequently",
+        "common",
+        "general",
+        "constant"
+      ]
+    },
+    {
+      "id": "常常",
+      "simplified": "常常",
+      "traditional": "常常",
+      "pinyin": "cháng cháng",
+      "pinyinNumeric": "chang2 chang2",
+      "pos": [],
+      "meanings": [
+        "frequently; often"
+      ]
+    },
+    {
+      "id": "唱",
+      "simplified": "唱",
+      "traditional": "唱",
+      "pinyin": "chàng",
+      "pinyinNumeric": "chang4",
+      "pos": [],
+      "meanings": [
+        "to sing",
+        "to call loudly",
+        "to chant"
+      ]
+    },
+    {
+      "id": "唱歌",
+      "simplified": "唱歌",
+      "traditional": "唱歌",
+      "pinyin": "chàng gē",
+      "pinyinNumeric": "chang4 ge1",
+      "pos": [],
+      "meanings": [
+        "to sing a song"
+      ]
+    },
+    {
+      "id": "车",
+      "simplified": "车",
+      "traditional": "車",
+      "pinyin": "chē",
+      "pinyinNumeric": "che1",
+      "pos": [],
+      "meanings": [
+        "car",
+        "vehicle",
+        "CL:輛|辆[liang4]",
+        "machine",
+        "to shape with a lathe",
+        "Kangxi radical 159"
+      ]
+    },
+    {
+      "id": "车票",
+      "simplified": "车票",
+      "traditional": "車票",
+      "pinyin": "chē piào",
+      "pinyinNumeric": "che1 piao4",
+      "pos": [],
+      "meanings": [
+        "ticket (for a bus or train)"
+      ]
+    },
+    {
+      "id": "车站",
+      "simplified": "车站",
+      "traditional": "車站",
+      "pinyin": "chē zhàn",
+      "pinyinNumeric": "che1 zhan4",
+      "pos": [],
+      "meanings": [
+        "rail station",
+        "bus stop",
+        "CL:處|处[chu4],個|个[ge4]"
+      ]
+    },
+    {
+      "id": "吃",
+      "simplified": "吃",
+      "traditional": "吃",
+      "pinyin": "chī",
+      "pinyinNumeric": "chi1",
+      "pos": [],
+      "meanings": [
+        "to eat; to consume",
+        "to eat at (a cafeteria etc)",
+        "to eradicate; to destroy",
+        "to absorb",
+        "to suffer (shock, injury, defeat etc)"
+      ]
+    },
+    {
+      "id": "吃饭",
+      "simplified": "吃饭",
+      "traditional": "吃飯",
+      "pinyin": "chī fàn",
+      "pinyinNumeric": "chi1 fan4",
+      "pos": [],
+      "meanings": [
+        "to have a meal",
+        "to eat",
+        "to make a living"
+      ]
+    },
+    {
+      "id": "出",
+      "simplified": "出",
+      "traditional": "出",
+      "pinyin": "chū",
+      "pinyinNumeric": "chu1",
+      "pos": [],
+      "meanings": [
+        "to go out; to come out",
+        "to arise; to occur",
+        "to produce; to yield",
+        "to go beyond; to exceed",
+        "(used after a verb to indicate an outward direction or a positive result)",
+        "classifier for dramas, plays, operas etc"
+      ]
+    },
+    {
+      "id": "出来",
+      "simplified": "出来",
+      "traditional": "出來",
+      "pinyin": "chū lái",
+      "pinyinNumeric": "chu1 lai2",
+      "pos": [],
+      "meanings": [
+        "to come out",
+        "to appear",
+        "to arise"
+      ]
+    },
+    {
+      "id": "出去",
+      "simplified": "出去",
+      "traditional": "出去",
+      "pinyin": "chū qù",
+      "pinyinNumeric": "chu1 qu4",
+      "pos": [],
+      "meanings": [
+        "to go out"
+      ]
+    },
+    {
+      "id": "穿",
+      "simplified": "穿",
+      "traditional": "穿",
+      "pinyin": "chuān",
+      "pinyinNumeric": "chuan1",
+      "pos": [],
+      "meanings": [
+        "to bore through; to pierce; to perforate",
+        "to go through (e.g. a tunnel); to cross (e.g. a street)",
+        "to thread; to string together",
+        "to wear; to put on (clothes, shoes etc.)",
+        "verb complement indicating thoroughness or completion"
+      ]
+    },
+    {
+      "id": "床",
+      "simplified": "床",
+      "traditional": "床",
+      "pinyin": "chuáng",
+      "pinyinNumeric": "chuang2",
+      "pos": [],
+      "meanings": [
+        "bed; couch (furniture that one can lie down on) (CL:張|张[zhang1])",
+        "bed; bottom (of rivers, oceans, gardens etc)",
+        "frame; chassis",
+        "classifier for blankets, quilts etc"
+      ]
+    },
+    {
+      "id": "次",
+      "simplified": "次",
+      "traditional": "次",
+      "pinyin": "cì",
+      "pinyinNumeric": "ci4",
+      "pos": [],
+      "meanings": [
+        "next in sequence",
+        "second",
+        "the second (day, time etc)",
+        "secondary",
+        "vice-",
+        "sub-",
+        "infra-",
+        "inferior quality",
+        "substandard",
+        "order",
+        "sequence",
+        "hypo- (chemistry)",
+        "classifier for enumerated events: time"
+      ]
+    },
+    {
+      "id": "从",
+      "simplified": "从",
+      "traditional": "从",
+      "pinyin": "cóng",
+      "pinyinNumeric": "cong2",
+      "pos": [],
+      "meanings": [
+        "variant of 從|从[cong2]"
+      ]
+    },
+    {
+      "id": "错",
+      "simplified": "错",
+      "traditional": "錯",
+      "pinyin": "cuò",
+      "pinyinNumeric": "cuo4",
+      "pos": [],
+      "meanings": [
+        "mistake",
+        "wrong",
+        "bad",
+        "interlocking",
+        "complex",
+        "to grind",
+        "to polish",
+        "to alternate",
+        "to stagger",
+        "to miss",
+        "to let slip",
+        "to evade",
+        "to inlay with gold or silver"
+      ]
+    },
+    {
+      "id": "打",
+      "simplified": "打",
+      "traditional": "打",
+      "pinyin": "dǎ",
+      "pinyinNumeric": "da3",
+      "pos": [],
+      "meanings": [
+        "a semantically light, transitive verb that is combined with various grammatical objects to form compound verbs and verb-object phrases with a diverse range of meanings (e.g. 打傘|打伞[da3 san3] \"to hold an umbrella\", 打電話|打电话[da3 dian4 hua4] \"to make a phone call\", 打針|打针[da3 zhen1] \"to get an injection\", 打手套[da3 shou3 tao4] \"to knit gloves\", 打氣|打气[da3 qi4] \"to inflate\")",
+        "to hit; to strike",
+        "to fight",
+        "(coll.) from; since (as in 打那以後|打那以后[da3 na4 yi3 hou4] \"since then\")"
+      ]
+    },
+    {
+      "id": "打车",
+      "simplified": "打车",
+      "traditional": "打車",
+      "pinyin": "dǎ chē",
+      "pinyinNumeric": "da3 che1",
+      "pos": [],
+      "meanings": [
+        "to take a taxi (in town)",
+        "to hitch a lift"
+      ]
+    },
+    {
+      "id": "打电话",
+      "simplified": "打电话",
+      "traditional": "打電話",
+      "pinyin": "dǎ diàn huà",
+      "pinyinNumeric": "da3 dian4 hua4",
+      "pos": [],
+      "meanings": [
+        "to make a telephone call"
+      ]
+    },
+    {
+      "id": "打开",
+      "simplified": "打开",
+      "traditional": "打開",
+      "pinyin": "dǎ kāi",
+      "pinyinNumeric": "da3 kai1",
+      "pos": [],
+      "meanings": [
+        "to open",
+        "to show (a ticket)",
+        "to turn on",
+        "to switch on"
+      ]
+    },
+    {
+      "id": "打球",
+      "simplified": "打球",
+      "traditional": "打球",
+      "pinyin": "dǎ qiú",
+      "pinyinNumeric": "da3 qiu2",
+      "pos": [],
+      "meanings": [
+        "to play ball",
+        "to play with a ball"
+      ]
+    },
+    {
+      "id": "大",
+      "simplified": "大",
+      "traditional": "大",
+      "pinyin": "dà",
+      "pinyinNumeric": "da4",
+      "pos": [],
+      "meanings": [
+        "big; large; great",
+        "older (than another person)",
+        "eldest (as in 大姐[da4 jie3])",
+        "greatly; freely; fully",
+        "(dialect) father",
+        "(dialect) uncle (father's brother)"
+      ]
+    },
+    {
+      "id": "大学",
+      "simplified": "大学",
+      "traditional": "大學",
+      "pinyin": "dà xué",
+      "pinyinNumeric": "da4 xue2",
+      "pos": [],
+      "meanings": [
+        "university; college",
+        "CL:所[suo3]"
+      ]
+    },
+    {
+      "id": "大学生",
+      "simplified": "大学生",
+      "traditional": "大學生",
+      "pinyin": "dà xué shēng",
+      "pinyinNumeric": "da4 xue2 sheng1",
+      "pos": [],
+      "meanings": [
+        "university student; college student"
+      ]
+    },
+    {
+      "id": "到",
+      "simplified": "到",
+      "traditional": "到",
+      "pinyin": "dào",
+      "pinyinNumeric": "dao4",
+      "pos": [],
+      "meanings": [
+        "to reach; to arrive",
+        "to leave for; to go to",
+        "to (a place); until (a time); up to (a point)",
+        "(verb complement indicating arriving at a place or reaching a point)",
+        "considerate; thoughtful; thorough"
+      ]
+    },
+    {
+      "id": "得到",
+      "simplified": "得到",
+      "traditional": "得到",
+      "pinyin": "dé dào",
+      "pinyinNumeric": "de2 dao4",
+      "pos": [],
+      "meanings": [
+        "to get; to obtain; to receive"
+      ]
+    },
+    {
+      "id": "地",
+      "simplified": "地",
+      "traditional": "地",
+      "pinyin": "de",
+      "pinyinNumeric": "de5",
+      "pos": [],
+      "meanings": [
+        "-ly",
+        "structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
+      ]
+    },
+    {
+      "id": "地",
+      "simplified": "地",
+      "traditional": "地",
+      "pinyin": "dì",
+      "pinyinNumeric": "di4",
+      "pos": [],
+      "meanings": [
+        "earth",
+        "ground",
+        "field",
+        "place",
+        "land",
+        "CL:片[pian4]"
+      ]
+    },
+    {
+      "id": "地点",
+      "simplified": "地点",
+      "traditional": "地點",
+      "pinyin": "dì diǎn",
+      "pinyinNumeric": "di4 dian3",
+      "pos": [],
+      "meanings": [
+        "place",
+        "site",
+        "location",
+        "venue",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "地方",
+      "simplified": "地方",
+      "traditional": "地方",
+      "pinyin": "dì fang",
+      "pinyinNumeric": "di4 fang5",
+      "pos": [],
+      "meanings": [
+        "place; location; area; space; territory",
+        "aspect; part",
+        "CL:處|处[chu4]"
+      ]
+    },
+    {
+      "id": "地上",
+      "simplified": "地上",
+      "traditional": "地上",
+      "pinyin": "dì shang",
+      "pinyinNumeric": "di4 shang5",
+      "pos": [],
+      "meanings": [
+        "on the ground",
+        "on the floor"
+      ]
+    },
+    {
+      "id": "地图",
+      "simplified": "地图",
+      "traditional": "地圖",
+      "pinyin": "dì tú",
+      "pinyinNumeric": "di4 tu2",
+      "pos": [],
+      "meanings": [
+        "map",
+        "CL:張|张[zhang1],本[ben3]"
+      ]
+    },
+    {
+      "id": "的",
+      "simplified": "的",
+      "traditional": "的",
+      "pinyin": "de",
+      "pinyinNumeric": "de5",
+      "pos": [],
+      "meanings": [
+        "of; ~'s (possessive particle)",
+        "(used after an attribute when it modifies a noun)",
+        "(used at the end of a declarative sentence for emphasis)",
+        "(used after a noun, verb or adjective to form a nominal expression, as in 皮革的[pi2 ge2 de5] \"one made of leather\" or 跑堂兒的|跑堂儿的[pao3 tang2 r5 de5] \"a waiter (literally, one who runs back and forth in a restaurant)\" or 新的[xin1 de5] \"new one\")",
+        "also pr. [di4] or [di5] in poetry and songs"
+      ]
+    },
+    {
+      "id": "等",
+      "simplified": "等",
+      "traditional": "等",
+      "pinyin": "děng",
+      "pinyinNumeric": "deng3",
+      "pos": [],
+      "meanings": [
+        "to wait for; to await",
+        "by the time; when; till",
+        "and so on; etc.; et al.",
+        "(bound form) class; rank; grade",
+        "(bound form) equal to; same as",
+        "(used to end an enumeration)",
+        "(literary) (plural suffix attached to a personal pronoun or noun)"
+      ]
+    },
+    {
+      "id": "弟弟",
+      "simplified": "弟弟",
+      "traditional": "弟弟",
+      "pinyin": "dì di",
+      "pinyinNumeric": "di4 di5",
+      "pos": [],
+      "meanings": [
+        "younger brother",
+        "CL:個|个[ge4],位[wei4]"
+      ]
+    },
+    {
+      "id": "第",
+      "simplified": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "pinyinNumeric": "di4",
+      "pos": [],
+      "meanings": [
+        "(prefix indicating ordinal number, as in 第六[di4 liu4] \"sixth\")",
+        "(literary) grades in which successful candidates in the imperial examinations were placed",
+        "(old) residence of a high official",
+        "(literary) but; however",
+        "(literary) only; just"
+      ]
+    },
+    {
+      "id": "点",
+      "simplified": "点",
+      "traditional": "點",
+      "pinyin": "diǎn",
+      "pinyinNumeric": "dian3",
+      "pos": [],
+      "meanings": [
+        "to touch briefly; to tap",
+        "to mark with a dot; to check off (on a list)",
+        "to order (food etc); to select",
+        "to mention; to bring up (a topic or person)",
+        "to hint at; to imply",
+        "to administer (eye medicine etc) in drops",
+        "to light (a fire, a lamp etc); to ignite",
+        "to nod (one's head) in agreement; to beckon by moving (one's hand) up and down",
+        "point; dot; spot; speck",
+        "dot stroke in Chinese characters",
+        "(math.) decimal point",
+        "point in time or space",
+        "(after a number) o'clock",
+        "a small amount; a bit; (after a verb or adjective) a bit more",
+        "classifier for small amounts"
+      ]
+    },
+    {
+      "id": "电",
+      "simplified": "电",
+      "traditional": "電",
+      "pinyin": "diàn",
+      "pinyinNumeric": "dian4",
+      "pos": [],
+      "meanings": [
+        "lightning",
+        "electricity",
+        "electric (bound form)",
+        "to get (or give) an electric shock",
+        "phone call or telegram etc",
+        "to send via telephone or telegram etc"
+      ]
+    },
+    {
+      "id": "电话",
+      "simplified": "电话",
+      "traditional": "電話",
+      "pinyin": "diàn huà",
+      "pinyinNumeric": "dian4 hua4",
+      "pos": [],
+      "meanings": [
+        "telephone",
+        "CL:部[bu4]",
+        "phone call",
+        "CL:通[tong1]",
+        "phone number"
+      ]
+    },
+    {
+      "id": "电脑",
+      "simplified": "电脑",
+      "traditional": "電腦",
+      "pinyin": "diàn nǎo",
+      "pinyinNumeric": "dian4 nao3",
+      "pos": [],
+      "meanings": [
+        "computer",
+        "CL:臺|台[tai2]"
+      ]
+    },
+    {
+      "id": "电视",
+      "simplified": "电视",
+      "traditional": "電視",
+      "pinyin": "diàn shì",
+      "pinyinNumeric": "dian4 shi4",
+      "pos": [],
+      "meanings": [
+        "television; TV",
+        "CL:臺|台[tai2],部[bu4]"
+      ]
+    },
+    {
+      "id": "电视机",
+      "simplified": "电视机",
+      "traditional": "電視機",
+      "pinyin": "diàn shì jī",
+      "pinyinNumeric": "dian4 shi4 ji1",
+      "pos": [],
+      "meanings": [
+        "television set",
+        "CL:臺|台[tai2]"
+      ]
+    },
+    {
+      "id": "电影",
+      "simplified": "电影",
+      "traditional": "電影",
+      "pinyin": "diàn yǐng",
+      "pinyinNumeric": "dian4 ying3",
+      "pos": [],
+      "meanings": [
+        "movie; film",
+        "CL:部[bu4]"
+      ]
+    },
+    {
+      "id": "电影院",
+      "simplified": "电影院",
+      "traditional": "電影院",
+      "pinyin": "diàn yǐng yuàn",
+      "pinyinNumeric": "dian4 ying3 yuan4",
+      "pos": [],
+      "meanings": [
+        "cinema; movie theater",
+        "CL:家[jia1],座[zuo4]"
+      ]
+    },
+    {
+      "id": "东",
+      "simplified": "东",
+      "traditional": "東",
+      "pinyin": "dōng",
+      "pinyinNumeric": "dong1",
+      "pos": [],
+      "meanings": [
+        "east",
+        "host (i.e. sitting on east side of guest)",
+        "landlord"
+      ]
+    },
+    {
+      "id": "东边",
+      "simplified": "东边",
+      "traditional": "東邊",
+      "pinyin": "dōng bian",
+      "pinyinNumeric": "dong1 bian5",
+      "pos": [],
+      "meanings": [
+        "east",
+        "east side",
+        "eastern part",
+        "to the east of"
+      ]
+    },
+    {
+      "id": "东西",
+      "simplified": "东西",
+      "traditional": "東西",
+      "pinyin": "dōng xi",
+      "pinyinNumeric": "dong1 xi5",
+      "pos": [],
+      "meanings": [
+        "thing",
+        "stuff",
+        "person",
+        "CL:個|个[ge4],件[jian4]"
+      ]
+    },
+    {
+      "id": "动",
+      "simplified": "动",
+      "traditional": "動",
+      "pinyin": "dòng",
+      "pinyinNumeric": "dong4",
+      "pos": [],
+      "meanings": [
+        "(of sth) to move",
+        "to set in movement",
+        "to displace",
+        "to touch",
+        "to make use of",
+        "to stir (emotions)",
+        "to alter",
+        "abbr. for 動詞|动词[dong4 ci2], verb"
+      ]
+    },
+    {
+      "id": "动作",
+      "simplified": "动作",
+      "traditional": "動作",
+      "pinyin": "dòng zuò",
+      "pinyinNumeric": "dong4 zuo4",
+      "pos": [],
+      "meanings": [
+        "movement; motion; action",
+        "to act; to move"
+      ]
+    },
+    {
+      "id": "都",
+      "simplified": "都",
+      "traditional": "都",
+      "pinyin": "dōu",
+      "pinyinNumeric": "dou1",
+      "pos": [],
+      "meanings": [
+        "all; both; entirely",
+        "(used for emphasis) even",
+        "already",
+        "(not) at all"
+      ]
+    },
+    {
+      "id": "读",
+      "simplified": "读",
+      "traditional": "讀",
+      "pinyin": "dú",
+      "pinyinNumeric": "du2",
+      "pos": [],
+      "meanings": [
+        "to read out; to read aloud",
+        "to read",
+        "to attend (school); to study (a subject in school)",
+        "to pronounce"
+      ]
+    },
+    {
+      "id": "读书",
+      "simplified": "读书",
+      "traditional": "讀書",
+      "pinyin": "dú shū",
+      "pinyinNumeric": "du2 shu1",
+      "pos": [],
+      "meanings": [
+        "to read a book",
+        "to study",
+        "to attend school"
+      ]
+    },
+    {
+      "id": "对",
+      "simplified": "对",
+      "traditional": "對",
+      "pinyin": "duì",
+      "pinyinNumeric": "dui4",
+      "pos": [],
+      "meanings": [
+        "right; correct",
+        "towards; at; for",
+        "concerning; regarding",
+        "to treat (sb a certain way)",
+        "to face",
+        "(bound form) opposite; facing; matching",
+        "to match together; to adjust",
+        "to fit; to suit",
+        "to answer; to reply",
+        "to add; to pour in (a fluid)",
+        "to check; to compare",
+        "classifier: couple; pair"
+      ]
+    },
+    {
+      "id": "对不起",
+      "simplified": "对不起",
+      "traditional": "對不起",
+      "pinyin": "duì bu qǐ",
+      "pinyinNumeric": "dui4 bu5 qi3",
+      "pos": [],
+      "meanings": [
+        "I'm sorry; excuse me; I beg your pardon",
+        "to let (sb) down; to disappoint"
+      ]
+    },
+    {
+      "id": "多",
+      "simplified": "多",
+      "traditional": "多",
+      "pinyin": "duō",
+      "pinyinNumeric": "duo1",
+      "pos": [],
+      "meanings": [
+        "many; much; more; a lot of",
+        "too many; in excess",
+        "(after a numeral) ... odd",
+        "how (to what extent) (Taiwan pr. [duo2])",
+        "(bound form) multi-; poly-"
+      ]
+    },
+    {
+      "id": "多少",
+      "simplified": "多少",
+      "traditional": "多少",
+      "pinyin": "duō shao",
+      "pinyinNumeric": "duo1 shao5",
+      "pos": [],
+      "meanings": [
+        "how much?; how many?",
+        "(phone number, student ID etc) what number?"
+      ]
+    },
+    {
+      "id": "饿",
+      "simplified": "饿",
+      "traditional": "餓",
+      "pinyin": "è",
+      "pinyinNumeric": "e4",
+      "pos": [],
+      "meanings": [
+        "hungry",
+        "to starve (sb)"
+      ]
+    },
+    {
+      "id": "儿子",
+      "simplified": "儿子",
+      "traditional": "兒子",
+      "pinyin": "ér zi",
+      "pinyinNumeric": "er2 zi5",
+      "pos": [],
+      "meanings": [
+        "son"
+      ]
+    },
+    {
+      "id": "二",
+      "simplified": "二",
+      "traditional": "二",
+      "pinyin": "èr",
+      "pinyinNumeric": "er4",
+      "pos": [],
+      "meanings": [
+        "two",
+        "2",
+        "(Beijing dialect) stupid"
+      ]
+    },
+    {
+      "id": "饭",
+      "simplified": "饭",
+      "traditional": "飯",
+      "pinyin": "fàn",
+      "pinyinNumeric": "fan4",
+      "pos": [],
+      "meanings": [
+        "cooked rice",
+        "CL:碗[wan3]",
+        "meal",
+        "CL:頓|顿[dun4]",
+        "(loanword) fan",
+        "devotee"
+      ]
+    },
+    {
+      "id": "饭店",
+      "simplified": "饭店",
+      "traditional": "飯店",
+      "pinyin": "fàn diàn",
+      "pinyinNumeric": "fan4 dian4",
+      "pos": [],
+      "meanings": [
+        "restaurant",
+        "hotel",
+        "CL:家[jia1]"
+      ]
+    },
+    {
+      "id": "房间",
+      "simplified": "房间",
+      "traditional": "房間",
+      "pinyin": "fáng jiān",
+      "pinyinNumeric": "fang2 jian1",
+      "pos": [],
+      "meanings": [
+        "room",
+        "CL:間|间[jian1]"
+      ]
+    },
+    {
+      "id": "房子",
+      "simplified": "房子",
+      "traditional": "房子",
+      "pinyin": "fáng zi",
+      "pinyinNumeric": "fang2 zi5",
+      "pos": [],
+      "meanings": [
+        "house",
+        "building (single- or two-story)",
+        "apartment",
+        "room",
+        "CL:棟|栋[dong4],幢[zhuang4],座[zuo4],套[tao4],間|间[jian1]"
+      ]
+    },
+    {
+      "id": "放",
+      "simplified": "放",
+      "traditional": "放",
+      "pinyin": "fàng",
+      "pinyinNumeric": "fang4",
+      "pos": [],
+      "meanings": [
+        "to put",
+        "to place",
+        "to release",
+        "to free",
+        "to let go",
+        "to let out",
+        "to set off (fireworks)"
+      ]
+    },
+    {
+      "id": "放假",
+      "simplified": "放假",
+      "traditional": "放假",
+      "pinyin": "fàng jià",
+      "pinyinNumeric": "fang4 jia4",
+      "pos": [],
+      "meanings": [
+        "to have a holiday or vacation"
+      ]
+    },
+    {
+      "id": "放学",
+      "simplified": "放学",
+      "traditional": "放學",
+      "pinyin": "fàng xué",
+      "pinyinNumeric": "fang4 xue2",
+      "pos": [],
+      "meanings": [
+        "to dismiss students at the end of the school day"
+      ]
+    },
+    {
+      "id": "飞",
+      "simplified": "飞",
+      "traditional": "飛",
+      "pinyin": "fēi",
+      "pinyinNumeric": "fei1",
+      "pos": [],
+      "meanings": [
+        "to fly"
+      ]
+    },
+    {
+      "id": "飞机",
+      "simplified": "飞机",
+      "traditional": "飛機",
+      "pinyin": "fēi jī",
+      "pinyinNumeric": "fei1 ji1",
+      "pos": [],
+      "meanings": [
+        "airplane",
+        "CL:架[jia4]"
+      ]
+    },
+    {
+      "id": "非常",
+      "simplified": "非常",
+      "traditional": "非常",
+      "pinyin": "fēi cháng",
+      "pinyinNumeric": "fei1 chang2",
+      "pos": [],
+      "meanings": [
+        "very; really",
+        "unusual; extraordinary"
+      ]
+    },
+    {
+      "id": "分",
+      "simplified": "分",
+      "traditional": "分",
+      "pinyin": "fēn",
+      "pinyinNumeric": "fen1",
+      "pos": [],
+      "meanings": [
+        "to divide; to separate",
+        "to distribute; to allocate",
+        "to distinguish (good and bad)",
+        "(bound form) branch of (an organization); sub- (as in 分局[fen1 ju2])",
+        "fraction",
+        "one tenth (of certain units)",
+        "unit of length equivalent to 0.33 cm",
+        "minute (unit of time)",
+        "minute (angular measurement unit)",
+        "a point (in sports or games)",
+        "0.01 yuan (unit of money)"
+      ]
+    },
+    {
+      "id": "风",
+      "simplified": "风",
+      "traditional": "風",
+      "pinyin": "fēng",
+      "pinyinNumeric": "feng1",
+      "pos": [],
+      "meanings": [
+        "wind",
+        "news",
+        "style",
+        "custom",
+        "manner",
+        "CL:陣|阵[zhen4],絲|丝[si1]"
+      ]
+    },
+    {
+      "id": "干",
+      "simplified": "干",
+      "traditional": "乹",
+      "pinyin": "gān",
+      "pinyinNumeric": "gan1",
+      "pos": [],
+      "meanings": [
+        "old variant of 乾|干[gan1]"
+      ]
+    },
+    {
+      "id": "干",
+      "simplified": "干",
+      "traditional": "幹",
+      "pinyin": "gàn",
+      "pinyinNumeric": "gan4",
+      "pos": [],
+      "meanings": [
+        "tree trunk",
+        "main part of sth",
+        "to manage",
+        "to work",
+        "to do",
+        "capable",
+        "cadre",
+        "to kill (slang)",
+        "to fuck (vulgar)",
+        "(coll.) pissed off",
+        "annoyed"
+      ]
+    },
+    {
+      "id": "干净",
+      "simplified": "干净",
+      "traditional": "乾淨",
+      "pinyin": "gān jìng",
+      "pinyinNumeric": "gan1 jing4",
+      "pos": [],
+      "meanings": [
+        "clean",
+        "neat"
+      ]
+    },
+    {
+      "id": "干什么",
+      "simplified": "干什么",
+      "traditional": "幹什麼",
+      "pinyin": "gàn shén me",
+      "pinyinNumeric": "gan4 shen2 me5",
+      "pos": [],
+      "meanings": [
+        "what are you doing?",
+        "what's he up to?"
+      ]
+    },
+    {
+      "id": "高",
+      "simplified": "高",
+      "traditional": "高",
+      "pinyin": "gāo",
+      "pinyinNumeric": "gao1",
+      "pos": [],
+      "meanings": [
+        "high",
+        "tall",
+        "above average",
+        "loud",
+        "your (honorific)"
+      ]
+    },
+    {
+      "id": "高兴",
+      "simplified": "高兴",
+      "traditional": "高興",
+      "pinyin": "gāo xìng",
+      "pinyinNumeric": "gao1 xing4",
+      "pos": [],
+      "meanings": [
+        "happy",
+        "glad",
+        "willing (to do sth)",
+        "in a cheerful mood"
+      ]
+    },
+    {
+      "id": "告诉",
+      "simplified": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gào su",
+      "pinyinNumeric": "gao4 su5",
+      "pos": [],
+      "meanings": [
+        "to tell; to inform; to let know"
+      ]
+    },
+    {
+      "id": "哥哥",
+      "simplified": "哥哥",
+      "traditional": "哥哥",
+      "pinyin": "gē ge",
+      "pinyinNumeric": "ge1 ge5",
+      "pos": [],
+      "meanings": [
+        "older brother",
+        "CL:個|个[ge4],位[wei4]"
+      ]
+    },
+    {
+      "id": "歌",
+      "simplified": "歌",
+      "traditional": "歌",
+      "pinyin": "gē",
+      "pinyinNumeric": "ge1",
+      "pos": [],
+      "meanings": [
+        "song (CL:首[shou3],支[zhi1])",
+        "(bound form) to sing"
+      ]
+    },
+    {
+      "id": "个",
+      "simplified": "个",
+      "traditional": "個",
+      "pinyin": "gè",
+      "pinyinNumeric": "ge4",
+      "pos": [],
+      "meanings": [
+        "(classifier used before a noun that has no specific classifier)",
+        "(bound form) individual"
+      ]
+    },
+    {
+      "id": "给",
+      "simplified": "给",
+      "traditional": "給",
+      "pinyin": "gěi",
+      "pinyinNumeric": "gei3",
+      "pos": [],
+      "meanings": [
+        "to",
+        "for",
+        "for the benefit of",
+        "to give",
+        "to allow",
+        "to do sth (for sb)",
+        "(grammatical equivalent of 被)",
+        "(grammatical equivalent of 把)",
+        "(sentence intensifier)"
+      ]
+    },
+    {
+      "id": "跟",
+      "simplified": "跟",
+      "traditional": "跟",
+      "pinyin": "gēn",
+      "pinyinNumeric": "gen1",
+      "pos": [],
+      "meanings": [
+        "heel",
+        "to follow closely",
+        "to go with",
+        "(of a woman) to marry sb",
+        "with",
+        "compared with",
+        "to",
+        "towards",
+        "and (joining two nouns)"
+      ]
+    },
+    {
+      "id": "工人",
+      "simplified": "工人",
+      "traditional": "工人",
+      "pinyin": "gōng rén",
+      "pinyinNumeric": "gong1 ren2",
+      "pos": [],
+      "meanings": [
+        "worker",
+        "CL:個|个[ge4],名[ming2]"
+      ]
+    },
+    {
+      "id": "工作",
+      "simplified": "工作",
+      "traditional": "工作",
+      "pinyin": "gōng zuò",
+      "pinyinNumeric": "gong1 zuo4",
+      "pos": [],
+      "meanings": [
+        "to work",
+        "(of a machine) to operate",
+        "job",
+        "work",
+        "task",
+        "CL:個|个[ge4],份[fen4],項|项[xiang4]"
+      ]
+    },
+    {
+      "id": "关",
+      "simplified": "关",
+      "traditional": "關",
+      "pinyin": "guān",
+      "pinyinNumeric": "guan1",
+      "pos": [],
+      "meanings": [
+        "mountain pass",
+        "to close; to shut; to turn off",
+        "to confine; to lock (sb) up; to shut (sb in a room, a bird in a cage etc)",
+        "to concern; to involve"
+      ]
+    },
+    {
+      "id": "关上",
+      "simplified": "关上",
+      "traditional": "關上",
+      "pinyin": "guān shàng",
+      "pinyinNumeric": "guan1 shang4",
+      "pos": [],
+      "meanings": [
+        "to close (a door)",
+        "to turn off (light, electrical equipment etc)"
+      ]
+    },
+    {
+      "id": "贵",
+      "simplified": "贵",
+      "traditional": "貴",
+      "pinyin": "guì",
+      "pinyinNumeric": "gui4",
+      "pos": [],
+      "meanings": [
+        "expensive",
+        "(bound form) highly valued; precious",
+        "(bound form) noble; of high rank",
+        "(prefix) (honorific) your"
+      ]
+    },
+    {
+      "id": "国",
+      "simplified": "国",
+      "traditional": "國",
+      "pinyin": "guó",
+      "pinyinNumeric": "guo2",
+      "pos": [],
+      "meanings": [
+        "country; nation; state",
+        "(bound form) national"
+      ]
+    },
+    {
+      "id": "国家",
+      "simplified": "国家",
+      "traditional": "國家",
+      "pinyin": "guó jiā",
+      "pinyinNumeric": "guo2 jia1",
+      "pos": [],
+      "meanings": [
+        "country; nation; state"
+      ]
+    },
+    {
+      "id": "国外",
+      "simplified": "国外",
+      "traditional": "國外",
+      "pinyin": "guó wài",
+      "pinyinNumeric": "guo2 wai4",
+      "pos": [],
+      "meanings": [
+        "abroad",
+        "external (affairs)",
+        "overseas",
+        "foreign"
+      ]
+    },
+    {
+      "id": "过",
+      "simplified": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "pinyinNumeric": "guo4",
+      "pos": [],
+      "meanings": [
+        "to cross",
+        "to go over",
+        "to pass (time)",
+        "to celebrate (a holiday)",
+        "to live",
+        "to get along",
+        "excessively",
+        "too-"
+      ]
+    },
+    {
+      "id": "还",
+      "simplified": "还",
+      "traditional": "還",
+      "pinyin": "hái",
+      "pinyinNumeric": "hai2",
+      "pos": [],
+      "meanings": [
+        "still",
+        "still in progress",
+        "still more",
+        "yet",
+        "even more",
+        "in addition",
+        "fairly",
+        "passably (good)",
+        "as early as",
+        "even",
+        "also",
+        "else"
+      ]
+    },
+    {
+      "id": "还",
+      "simplified": "还",
+      "traditional": "還",
+      "pinyin": "huán",
+      "pinyinNumeric": "huan2",
+      "pos": [],
+      "meanings": [
+        "to pay back",
+        "to return"
+      ]
+    },
+    {
+      "id": "还是",
+      "simplified": "还是",
+      "traditional": "還是",
+      "pinyin": "hái shi",
+      "pinyinNumeric": "hai2 shi5",
+      "pos": [],
+      "meanings": [
+        "still (as before)",
+        "had better",
+        "unexpectedly",
+        "or"
+      ]
+    },
+    {
+      "id": "还有",
+      "simplified": "还有",
+      "traditional": "還有",
+      "pinyin": "hái yǒu",
+      "pinyinNumeric": "hai2 you3",
+      "pos": [],
+      "meanings": [
+        "there still remain(s); there is (or are) still",
+        "in addition"
+      ]
+    },
+    {
+      "id": "孩子",
+      "simplified": "孩子",
+      "traditional": "孩子",
+      "pinyin": "hái zi",
+      "pinyinNumeric": "hai2 zi5",
+      "pos": [],
+      "meanings": [
+        "child"
+      ]
+    },
+    {
+      "id": "汉语",
+      "simplified": "汉语",
+      "traditional": "漢語",
+      "pinyin": "Hàn yǔ",
+      "pinyinNumeric": "Han4 yu3",
+      "pos": [],
+      "meanings": [
+        "Chinese language"
+      ]
+    },
+    {
+      "id": "汉字",
+      "simplified": "汉字",
+      "traditional": "漢字",
+      "pinyin": "hàn zì",
+      "pinyinNumeric": "han4 zi4",
+      "pos": [],
+      "meanings": [
+        "Chinese character(s)"
+      ]
+    },
+    {
+      "id": "好",
+      "simplified": "好",
+      "traditional": "好",
+      "pinyin": "hǎo",
+      "pinyinNumeric": "hao3",
+      "pos": [],
+      "meanings": [
+        "good",
+        "appropriate; proper",
+        "all right!",
+        "(before a verb) easy to",
+        "(before a verb) good to",
+        "(before an adjective for exclamatory effect) so",
+        "(verb complement indicating completion)",
+        "(of two people) close; on intimate terms",
+        "(after a personal pronoun) hello"
+      ]
+    },
+    {
+      "id": "好吃",
+      "simplified": "好吃",
+      "traditional": "好吃",
+      "pinyin": "hǎo chī",
+      "pinyinNumeric": "hao3 chi1",
+      "pos": [],
+      "meanings": [
+        "tasty; delicious"
+      ]
+    },
+    {
+      "id": "好看",
+      "simplified": "好看",
+      "traditional": "好看",
+      "pinyin": "hǎo kàn",
+      "pinyinNumeric": "hao3 kan4",
+      "pos": [],
+      "meanings": [
+        "good-looking; nice-looking",
+        "(of a movie, book, TV show etc) good",
+        "in an embarrassing situation"
+      ]
+    },
+    {
+      "id": "好听",
+      "simplified": "好听",
+      "traditional": "好聽",
+      "pinyin": "hǎo tīng",
+      "pinyinNumeric": "hao3 ting1",
+      "pos": [],
+      "meanings": [
+        "pleasant to hear"
+      ]
+    },
+    {
+      "id": "好玩儿",
+      "simplified": "好玩儿",
+      "traditional": "好玩兒",
+      "pinyin": "hǎo wán r",
+      "pinyinNumeric": "hao3 wan2 r5",
+      "pos": [],
+      "meanings": [
+        "erhua variant of 好玩[hao3 wan2]"
+      ]
+    },
+    {
+      "id": "号",
+      "simplified": "号",
+      "traditional": "號",
+      "pinyin": "hào",
+      "pinyinNumeric": "hao4",
+      "pos": [],
+      "meanings": [
+        "(literary) to call out; to command",
+        "(bound form) bugle; trumpet",
+        "(bound form) signal; bugle call (e.g. 起床號|起床号[qi3 chuang2 hao4])",
+        "(bound form) mark; sign",
+        "to mark; to label; to assign a number",
+        "(bound form) name; appellation (e.g. 國號|国号[guo2 hao4], 年號|年号[nian2 hao4], 遼寧號|辽宁号[Liao2 ning2 Hao4])",
+        "(after a numeral) number designation (e.g. 237號房間|237号房间[er4 san1 qi1 hao4 fang2 jian1] \"Room 237\")",
+        "day of the month (e.g. 七號|七号[qi1 hao4] \"the 7th\")",
+        "(bound form) size; type; category (e.g. 五號電池|五号电池[wu3 hao4 dian4 chi2])",
+        "(TCM) to feel (the pulse) (used in 號脈|号脉[hao4 mai4])",
+        "classifier for numbered people or items"
+      ]
+    },
+    {
+      "id": "喝",
+      "simplified": "喝",
+      "traditional": "喝",
+      "pinyin": "hē",
+      "pinyinNumeric": "he1",
+      "pos": [],
+      "meanings": [
+        "to drink",
+        "variant of 嗬[he1]"
+      ]
+    },
+    {
+      "id": "和",
+      "simplified": "和",
+      "traditional": "咊",
+      "pinyin": "hé",
+      "pinyinNumeric": "he2",
+      "pos": [],
+      "meanings": [
+        "old variant of 和[he2]"
+      ]
+    },
+    {
+      "id": "很",
+      "simplified": "很",
+      "traditional": "很",
+      "pinyin": "hěn",
+      "pinyinNumeric": "hen3",
+      "pos": [],
+      "meanings": [
+        "very; quite",
+        "(also, often used before an adjective without intensifying its meaning, i.e. as a meaningless syntactic element)"
+      ]
+    },
+    {
+      "id": "后",
+      "simplified": "后",
+      "traditional": "后",
+      "pinyin": "hòu",
+      "pinyinNumeric": "hou4",
+      "pos": [],
+      "meanings": [
+        "empress",
+        "queen",
+        "(archaic) monarch",
+        "ruler"
+      ]
+    },
+    {
+      "id": "后边",
+      "simplified": "后边",
+      "traditional": "後邊",
+      "pinyin": "hòu bian",
+      "pinyinNumeric": "hou4 bian5",
+      "pos": [],
+      "meanings": [
+        "the back; the rear; the last bit",
+        "behind; near the end; at the back",
+        "later; afterwards"
+      ]
+    },
+    {
+      "id": "后天",
+      "simplified": "后天",
+      "traditional": "後天",
+      "pinyin": "hòu tiān",
+      "pinyinNumeric": "hou4 tian1",
+      "pos": [],
+      "meanings": [
+        "the day after tomorrow",
+        "life after birth (the period in which one develops through experiences, contrasted with 先天[xian1 tian1])",
+        "acquired (not innate or congenital)",
+        "a posteriori"
+      ]
+    },
+    {
+      "id": "花",
+      "simplified": "花",
+      "traditional": "花",
+      "pinyin": "huā",
+      "pinyinNumeric": "hua1",
+      "pos": [],
+      "meanings": [
+        "flower",
+        "blossom",
+        "CL:朵[duo3],支[zhi1],束[shu4],把[ba3],盆[pen2],簇[cu4]",
+        "fancy pattern",
+        "florid",
+        "to spend (money, time)",
+        "(coll.) lecherous",
+        "lustful"
+      ]
+    },
+    {
+      "id": "话",
+      "simplified": "话",
+      "traditional": "話",
+      "pinyin": "huà",
+      "pinyinNumeric": "hua4",
+      "pos": [],
+      "meanings": [
+        "dialect",
+        "language",
+        "spoken words",
+        "speech",
+        "talk",
+        "words",
+        "conversation",
+        "what sb said",
+        "CL:種|种[zhong3],席[xi2],句[ju4],口[kou3],番[fan1]"
+      ]
+    },
+    {
+      "id": "坏",
+      "simplified": "坏",
+      "traditional": "壞",
+      "pinyin": "huài",
+      "pinyinNumeric": "huai4",
+      "pos": [],
+      "meanings": [
+        "bad",
+        "spoiled",
+        "broken",
+        "to break down",
+        "(suffix) to the utmost"
+      ]
+    },
+    {
+      "id": "回",
+      "simplified": "回",
+      "traditional": "回",
+      "pinyin": "huí",
+      "pinyinNumeric": "hui2",
+      "pos": [],
+      "meanings": [
+        "to go back; to return; to turn back; to turn around",
+        "to reply; to answer",
+        "classifier for literary divisions (acts of a play, sections or chapters of a classic book)",
+        "classifier for occurrences or times"
+      ]
+    },
+    {
+      "id": "回答",
+      "simplified": "回答",
+      "traditional": "回答",
+      "pinyin": "huí dá",
+      "pinyinNumeric": "hui2 da2",
+      "pos": [],
+      "meanings": [
+        "to reply; to answer",
+        "reply; answer"
+      ]
+    },
+    {
+      "id": "回到",
+      "simplified": "回到",
+      "traditional": "回到",
+      "pinyin": "huí dào",
+      "pinyinNumeric": "hui2 dao4",
+      "pos": [],
+      "meanings": [
+        "to return to"
+      ]
+    },
+    {
+      "id": "回家",
+      "simplified": "回家",
+      "traditional": "回家",
+      "pinyin": "huí jiā",
+      "pinyinNumeric": "hui2 jia1",
+      "pos": [],
+      "meanings": [
+        "to return home"
+      ]
+    },
+    {
+      "id": "回来",
+      "simplified": "回来",
+      "traditional": "回來",
+      "pinyin": "huí lai",
+      "pinyinNumeric": "hui2 lai5",
+      "pos": [],
+      "meanings": [
+        "to return; to come back"
+      ]
+    },
+    {
+      "id": "回去",
+      "simplified": "回去",
+      "traditional": "回去",
+      "pinyin": "huí qu",
+      "pinyinNumeric": "hui2 qu5",
+      "pos": [],
+      "meanings": [
+        "to return",
+        "to go back"
+      ]
+    },
+    {
+      "id": "会",
+      "simplified": "会",
+      "traditional": "會",
+      "pinyin": "huì",
+      "pinyinNumeric": "hui4",
+      "pos": [],
+      "meanings": [
+        "can; to have the skill; to know how to",
+        "to be likely to; to be sure to",
+        "to meet; to get together",
+        "meeting; gathering",
+        "(suffix) union; group; association",
+        "(bound form) a moment (Taiwan pr. [hui3])"
+      ]
+    },
+    {
+      "id": "火车",
+      "simplified": "火车",
+      "traditional": "火車",
+      "pinyin": "huǒ chē",
+      "pinyinNumeric": "huo3 che1",
+      "pos": [],
+      "meanings": [
+        "train",
+        "CL:列[lie4],節|节[jie2],班[ban1],趟[tang4]"
+      ]
+    },
+    {
+      "id": "机场",
+      "simplified": "机场",
+      "traditional": "機場",
+      "pinyin": "jī chǎng",
+      "pinyinNumeric": "ji1 chang3",
+      "pos": [],
+      "meanings": [
+        "airport; airfield",
+        "(slang) service provider for Shadowsocks or similar software for circumventing Internet censorship",
+        "CL:家[jia1],處|处[chu4]"
+      ]
+    },
+    {
+      "id": "机票",
+      "simplified": "机票",
+      "traditional": "機票",
+      "pinyin": "jī piào",
+      "pinyinNumeric": "ji1 piao4",
+      "pos": [],
+      "meanings": [
+        "plane ticket; airline ticket",
+        "CL:張|张[zhang1]"
+      ]
+    },
+    {
+      "id": "鸡蛋",
+      "simplified": "鸡蛋",
+      "traditional": "雞蛋",
+      "pinyin": "jī dàn",
+      "pinyinNumeric": "ji1 dan4",
+      "pos": [],
+      "meanings": [
+        "(chicken) egg",
+        "hen's egg",
+        "CL:個|个[ge4],打[da2]"
+      ]
+    },
+    {
+      "id": "几",
+      "simplified": "几",
+      "traditional": "幾",
+      "pinyin": "jǐ",
+      "pinyinNumeric": "ji3",
+      "pos": [],
+      "meanings": [
+        "how many; how much",
+        "several; a few"
+      ]
+    },
+    {
+      "id": "记",
+      "simplified": "记",
+      "traditional": "記",
+      "pinyin": "jì",
+      "pinyinNumeric": "ji4",
+      "pos": [],
+      "meanings": [
+        "to record",
+        "to note",
+        "to memorize",
+        "to remember",
+        "mark",
+        "sign",
+        "classifier for blows, kicks, shots"
+      ]
+    },
+    {
+      "id": "记得",
+      "simplified": "记得",
+      "traditional": "記得",
+      "pinyin": "jì de",
+      "pinyinNumeric": "ji4 de5",
+      "pos": [],
+      "meanings": [
+        "to remember"
+      ]
+    },
+    {
+      "id": "记住",
+      "simplified": "记住",
+      "traditional": "記住",
+      "pinyin": "jì zhu",
+      "pinyinNumeric": "ji4 zhu5",
+      "pos": [],
+      "meanings": [
+        "to remember",
+        "to bear in mind",
+        "to learn by heart"
+      ]
+    },
+    {
+      "id": "家",
+      "simplified": "家",
+      "traditional": "傢",
+      "pinyin": "jiā",
+      "pinyinNumeric": "jia1",
+      "pos": [],
+      "meanings": [
+        "used in 傢伙|家伙[jia1 huo5] and 傢俱|家俱[jia1 ju4]"
+      ]
+    },
+    {
+      "id": "家里",
+      "simplified": "家里",
+      "traditional": "家裡",
+      "pinyin": "jiā lǐ",
+      "pinyinNumeric": "jia1 li3",
+      "pos": [],
+      "meanings": [
+        "home"
+      ]
+    },
+    {
+      "id": "家人",
+      "simplified": "家人",
+      "traditional": "家人",
+      "pinyin": "jiā rén",
+      "pinyinNumeric": "jia1 ren2",
+      "pos": [],
+      "meanings": [
+        "family member",
+        "(old) servant"
+      ]
+    },
+    {
+      "id": "间",
+      "simplified": "间",
+      "traditional": "間",
+      "pinyin": "jiān",
+      "pinyinNumeric": "jian1",
+      "pos": [],
+      "meanings": [
+        "between",
+        "among",
+        "within a definite time or space",
+        "room",
+        "section of a room or lateral space between two pairs of pillars",
+        "classifier for rooms"
+      ]
+    },
+    {
+      "id": "见",
+      "simplified": "见",
+      "traditional": "見",
+      "pinyin": "jiàn",
+      "pinyinNumeric": "jian4",
+      "pos": [],
+      "meanings": [
+        "to see",
+        "to meet",
+        "to appear (to be sth)",
+        "to interview",
+        "opinion",
+        "view"
+      ]
+    },
+    {
+      "id": "见面",
+      "simplified": "见面",
+      "traditional": "見面",
+      "pinyin": "jiàn miàn",
+      "pinyinNumeric": "jian4 mian4",
+      "pos": [],
+      "meanings": [
+        "to meet; to see each other",
+        "CL:次[ci4]"
+      ]
+    },
+    {
+      "id": "叫",
+      "simplified": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "pinyinNumeric": "jiao4",
+      "pos": [],
+      "meanings": [
+        "to shout",
+        "to call",
+        "to order",
+        "to ask",
+        "to be called",
+        "by (indicates agent in the passive mood)"
+      ]
+    },
+    {
+      "id": "教",
+      "simplified": "教",
+      "traditional": "教",
+      "pinyin": "jiāo",
+      "pinyinNumeric": "jiao1",
+      "pos": [],
+      "meanings": [
+        "to teach; to instruct"
+      ]
+    },
+    {
+      "id": "教学楼",
+      "simplified": "教学楼",
+      "traditional": "教學樓",
+      "pinyin": "jiào xué lóu",
+      "pinyinNumeric": "jiao4 xue2 lou2",
+      "pos": [],
+      "meanings": [
+        "school building; academic building"
+      ]
+    },
+    {
+      "id": "姐姐",
+      "simplified": "姐姐",
+      "traditional": "姐姐",
+      "pinyin": "jiě jie",
+      "pinyinNumeric": "jie3 jie5",
+      "pos": [],
+      "meanings": [
+        "older sister",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "介绍",
+      "simplified": "介绍",
+      "traditional": "介紹",
+      "pinyin": "jiè shào",
+      "pinyinNumeric": "jie4 shao4",
+      "pos": [],
+      "meanings": [
+        "to introduce (sb to sb)",
+        "to give a presentation",
+        "to present (sb for a job etc)",
+        "introduction"
+      ]
+    },
+    {
+      "id": "今年",
+      "simplified": "今年",
+      "traditional": "今年",
+      "pinyin": "jīn nián",
+      "pinyinNumeric": "jin1 nian2",
+      "pos": [],
+      "meanings": [
+        "this year"
+      ]
+    },
+    {
+      "id": "今天",
+      "simplified": "今天",
+      "traditional": "今天",
+      "pinyin": "jīn tiān",
+      "pinyinNumeric": "jin1 tian1",
+      "pos": [],
+      "meanings": [
+        "today",
+        "the present time; now"
+      ]
+    },
+    {
+      "id": "进",
+      "simplified": "进",
+      "traditional": "進",
+      "pinyin": "jìn",
+      "pinyinNumeric": "jin4",
+      "pos": [],
+      "meanings": [
+        "to go forward",
+        "to advance",
+        "to go in",
+        "to enter",
+        "to put in",
+        "to submit",
+        "to take in",
+        "to admit",
+        "(math.) base of a number system",
+        "classifier for sections in a building or residential compound"
+      ]
+    },
+    {
+      "id": "进来",
+      "simplified": "进来",
+      "traditional": "進來",
+      "pinyin": "jìn lái",
+      "pinyinNumeric": "jin4 lai2",
+      "pos": [],
+      "meanings": [
+        "to come in"
+      ]
+    },
+    {
+      "id": "进去",
+      "simplified": "进去",
+      "traditional": "進去",
+      "pinyin": "jìn qù",
+      "pinyinNumeric": "jin4 qu4",
+      "pos": [],
+      "meanings": [
+        "to go in"
+      ]
+    },
+    {
+      "id": "九",
+      "simplified": "九",
+      "traditional": "九",
+      "pinyin": "jiǔ",
+      "pinyinNumeric": "jiu3",
+      "pos": [],
+      "meanings": [
+        "nine",
+        "9"
+      ]
+    },
+    {
+      "id": "就",
+      "simplified": "就",
+      "traditional": "就",
+      "pinyin": "jiù",
+      "pinyinNumeric": "jiu4",
+      "pos": [],
+      "meanings": [
+        "(after a suppositional clause) in that case; then",
+        "(after a clause of action) as soon as; immediately after",
+        "(same as 就是[jiu4 shi4]) merely; nothing else but; simply; just; precisely; exactly",
+        "only; as little as",
+        "as much as; as many as",
+        "to approach; to move towards",
+        "to undertake; to engage in",
+        "(often followed by 著|着[zhe5]) taking advantage of",
+        "(of food) to go with",
+        "with regard to; concerning",
+        "(bound form) to reach; to attain (as in 一蹴而就[yi1 cu4 er2 jiu4])",
+        "(pattern: 就[jiu4] ... 也[ye3] ...) even if ... still ...",
+        "(pattern: 不[bu4] ... 就[jiu4] ...) if not ... then must be ..."
+      ]
+    },
+    {
+      "id": "觉得",
+      "simplified": "觉得",
+      "traditional": "覺得",
+      "pinyin": "jué de",
+      "pinyinNumeric": "jue2 de5",
+      "pos": [],
+      "meanings": [
+        "to think that ...; to feel that ...",
+        "to feel (uncomfortable etc)"
+      ]
+    },
+    {
+      "id": "开",
+      "simplified": "开",
+      "traditional": "開",
+      "pinyin": "kāi",
+      "pinyinNumeric": "kai1",
+      "pos": [],
+      "meanings": [
+        "to open (transitive or intransitive)",
+        "(of ships, vehicles, troops etc) to start",
+        "to turn on; to put in operation; to operate; to run",
+        "to boil",
+        "to write out (a prescription, check, invoice etc)",
+        "(directional complement) away; off",
+        "carat (gold)",
+        "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]",
+        "abbr. for 開本|开本[kai1 ben3], book format"
+      ]
+    },
+    {
+      "id": "开车",
+      "simplified": "开车",
+      "traditional": "開車",
+      "pinyin": "kāi chē",
+      "pinyinNumeric": "kai1 che1",
+      "pos": [],
+      "meanings": [
+        "to drive a car (or train etc)",
+        "(slang) to post sexual content online; to make a sexual joke"
+      ]
+    },
+    {
+      "id": "开会",
+      "simplified": "开会",
+      "traditional": "開會",
+      "pinyin": "kāi huì",
+      "pinyinNumeric": "kai1 hui4",
+      "pos": [],
+      "meanings": [
+        "to hold a meeting",
+        "to attend a meeting"
+      ]
+    },
+    {
+      "id": "开玩笑",
+      "simplified": "开玩笑",
+      "traditional": "開玩笑",
+      "pinyin": "kāi wán xiào",
+      "pinyinNumeric": "kai1 wan2 xiao4",
+      "pos": [],
+      "meanings": [
+        "to play a joke; to make fun of; to joke"
+      ]
+    },
+    {
+      "id": "看",
+      "simplified": "看",
+      "traditional": "看",
+      "pinyin": "kàn",
+      "pinyinNumeric": "kan4",
+      "pos": [],
+      "meanings": [
+        "to see; to look at",
+        "to read",
+        "to watch",
+        "to visit; to call on",
+        "to consider; to regard as",
+        "to look after",
+        "to treat (a patient or illness)",
+        "to depend on",
+        "to feel (that)",
+        "(after a verb) to give it a try",
+        "to watch out for"
+      ]
+    },
+    {
+      "id": "看病",
+      "simplified": "看病",
+      "traditional": "看病",
+      "pinyin": "kàn bìng",
+      "pinyinNumeric": "kan4 bing4",
+      "pos": [],
+      "meanings": [
+        "to visit a doctor",
+        "to see a patient"
+      ]
+    },
+    {
+      "id": "看到",
+      "simplified": "看到",
+      "traditional": "看到",
+      "pinyin": "kàn dào",
+      "pinyinNumeric": "kan4 dao4",
+      "pos": [],
+      "meanings": [
+        "to see"
+      ]
+    },
+    {
+      "id": "看见",
+      "simplified": "看见",
+      "traditional": "看見",
+      "pinyin": "kàn jiàn",
+      "pinyinNumeric": "kan4 jian4",
+      "pos": [],
+      "meanings": [
+        "to see; to catch sight of"
+      ]
+    },
+    {
+      "id": "考",
+      "simplified": "考",
+      "traditional": "攷",
+      "pinyin": "kǎo",
+      "pinyinNumeric": "kao3",
+      "pos": [],
+      "meanings": [
+        "to beat",
+        "to hit",
+        "variant of 考[kao3]",
+        "to inspect",
+        "to test",
+        "to take an exam"
+      ]
+    },
+    {
+      "id": "考试",
+      "simplified": "考试",
+      "traditional": "考試",
+      "pinyin": "kǎo shì",
+      "pinyinNumeric": "kao3 shi4",
+      "pos": [],
+      "meanings": [
+        "to take an exam",
+        "exam",
+        "CL:次[ci4]"
+      ]
+    },
+    {
+      "id": "渴",
+      "simplified": "渴",
+      "traditional": "渴",
+      "pinyin": "kě",
+      "pinyinNumeric": "ke3",
+      "pos": [],
+      "meanings": [
+        "thirsty"
+      ]
+    },
+    {
+      "id": "课",
+      "simplified": "课",
+      "traditional": "課",
+      "pinyin": "kè",
+      "pinyinNumeric": "ke4",
+      "pos": [],
+      "meanings": [
+        "subject",
+        "course",
+        "CL:門|门[men2]",
+        "class",
+        "lesson",
+        "CL:堂[tang2],節|节[jie2]",
+        "to levy",
+        "tax",
+        "form of divination"
+      ]
+    },
+    {
+      "id": "课本",
+      "simplified": "课本",
+      "traditional": "課本",
+      "pinyin": "kè běn",
+      "pinyinNumeric": "ke4 ben3",
+      "pos": [],
+      "meanings": [
+        "textbook",
+        "CL:本[ben3]"
+      ]
+    },
+    {
+      "id": "课文",
+      "simplified": "课文",
+      "traditional": "課文",
+      "pinyin": "kè wén",
+      "pinyinNumeric": "ke4 wen2",
+      "pos": [],
+      "meanings": [
+        "text",
+        "CL:篇[pian1]"
+      ]
+    },
+    {
+      "id": "口",
+      "simplified": "口",
+      "traditional": "口",
+      "pinyin": "kǒu",
+      "pinyinNumeric": "kou3",
+      "pos": [],
+      "meanings": [
+        "mouth",
+        "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+        "classifier for bites or mouthfuls"
+      ]
+    },
+    {
+      "id": "块",
+      "simplified": "块",
+      "traditional": "塊",
+      "pinyin": "kuài",
+      "pinyinNumeric": "kuai4",
+      "pos": [],
+      "meanings": [
+        "lump; chunk; piece",
+        "classifier for pieces of cloth, cake, soap etc",
+        "(coll.) classifier for money and currency units"
+      ]
+    },
+    {
+      "id": "快",
+      "simplified": "快",
+      "traditional": "快",
+      "pinyin": "kuài",
+      "pinyinNumeric": "kuai4",
+      "pos": [],
+      "meanings": [
+        "rapid",
+        "quick",
+        "speed",
+        "rate",
+        "soon",
+        "almost",
+        "to make haste",
+        "clever",
+        "sharp (of knives or wits)",
+        "forthright",
+        "plainspoken",
+        "gratified",
+        "pleased",
+        "pleasant"
+      ]
+    },
+    {
+      "id": "来",
+      "simplified": "来",
+      "traditional": "來",
+      "pinyin": "lái",
+      "pinyinNumeric": "lai2",
+      "pos": [],
+      "meanings": [
+        "to come",
+        "(used as a substitute for a more specific verb)",
+        "hither (directional complement for motion toward the speaker, as in 回來|回来[hui2 lai5])",
+        "ever since (as in 自古以來|自古以来[zi4 gu3 yi3 lai2])",
+        "for the past (amount of time)",
+        "(prefix) the coming ...; the next ... (as in 來世|来世[lai2 shi4])",
+        "(between two verbs) in order to",
+        "(after a round number) approximately",
+        "(used after 得[de2] to indicate possibility, as in 談得來|谈得来[tan2 de5 lai2], or after 不[bu4] to indicate impossibility, as in 吃不來|吃不来[chi1 bu5 lai2])"
+      ]
+    },
+    {
+      "id": "来到",
+      "simplified": "来到",
+      "traditional": "來到",
+      "pinyin": "lái dào",
+      "pinyinNumeric": "lai2 dao4",
+      "pos": [],
+      "meanings": [
+        "to arrive; to come"
+      ]
+    },
+    {
+      "id": "老",
+      "simplified": "老",
+      "traditional": "老",
+      "pinyin": "lǎo",
+      "pinyinNumeric": "lao3",
+      "pos": [],
+      "meanings": [
+        "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+        "old (of people)",
+        "venerable (person)",
+        "experienced",
+        "of long standing",
+        "always",
+        "all the time",
+        "of the past",
+        "very",
+        "outdated",
+        "(of meat etc) tough"
+      ]
+    },
+    {
+      "id": "老人",
+      "simplified": "老人",
+      "traditional": "老人",
+      "pinyin": "lǎo rén",
+      "pinyinNumeric": "lao3 ren2",
+      "pos": [],
+      "meanings": [
+        "old man or woman",
+        "the elderly",
+        "one's aged parents or grandparents"
+      ]
+    },
+    {
+      "id": "老师",
+      "simplified": "老师",
+      "traditional": "老師",
+      "pinyin": "lǎo shī",
+      "pinyinNumeric": "lao3 shi1",
+      "pos": [],
+      "meanings": [
+        "teacher"
+      ]
+    },
+    {
+      "id": "了",
+      "simplified": "了",
+      "traditional": "了",
+      "pinyin": "le",
+      "pinyinNumeric": "le5",
+      "pos": [],
+      "meanings": [
+        "(completed action marker)",
+        "(modal particle indicating change of state, situation now)",
+        "(modal particle intensifying preceding clause)"
+      ]
+    },
+    {
+      "id": "累",
+      "simplified": "累",
+      "traditional": "累",
+      "pinyin": "lèi",
+      "pinyinNumeric": "lei4",
+      "pos": [],
+      "meanings": [
+        "tired",
+        "weary",
+        "to strain",
+        "to wear out",
+        "to work hard"
+      ]
+    },
+    {
+      "id": "冷",
+      "simplified": "冷",
+      "traditional": "冷",
+      "pinyin": "lěng",
+      "pinyinNumeric": "leng3",
+      "pos": [],
+      "meanings": [
+        "cold"
+      ]
+    },
+    {
+      "id": "里",
+      "simplified": "里",
+      "traditional": "裏",
+      "pinyin": "lǐ",
+      "pinyinNumeric": "li3",
+      "pos": [],
+      "meanings": [
+        "variant of 裡|里[li3]"
+      ]
+    },
+    {
+      "id": "里边",
+      "simplified": "里边",
+      "traditional": "裡邊",
+      "pinyin": "lǐ bian",
+      "pinyinNumeric": "li3 bian5",
+      "pos": [],
+      "meanings": [
+        "inside"
+      ]
+    },
+    {
+      "id": "两",
+      "simplified": "两",
+      "traditional": "兩",
+      "pinyin": "liǎng",
+      "pinyinNumeric": "liang3",
+      "pos": [],
+      "meanings": [
+        "two",
+        "both",
+        "some",
+        "a few",
+        "tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤[jin1] (old)"
+      ]
+    },
+    {
+      "id": "零",
+      "simplified": "零",
+      "traditional": "零",
+      "pinyin": "líng",
+      "pinyinNumeric": "ling2",
+      "pos": [],
+      "meanings": [
+        "zero",
+        "nought",
+        "zero sign",
+        "fractional",
+        "fragmentary",
+        "odd (of numbers)",
+        "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+        "fraction",
+        "(in mathematics) remainder (after division)",
+        "extra",
+        "to wither and fall",
+        "to wither"
+      ]
+    },
+    {
+      "id": "六",
+      "simplified": "六",
+      "traditional": "六",
+      "pinyin": "liù",
+      "pinyinNumeric": "liu4",
+      "pos": [],
+      "meanings": [
+        "six",
+        "6"
+      ]
+    },
+    {
+      "id": "楼",
+      "simplified": "楼",
+      "traditional": "樓",
+      "pinyin": "lóu",
+      "pinyinNumeric": "lou2",
+      "pos": [],
+      "meanings": [
+        "house with more than 1 story",
+        "storied building",
+        "floor",
+        "CL:層|层[ceng2],座[zuo4],棟|栋[dong4]"
+      ]
+    },
+    {
+      "id": "楼上",
+      "simplified": "楼上",
+      "traditional": "樓上",
+      "pinyin": "lóu shàng",
+      "pinyinNumeric": "lou2 shang4",
+      "pos": [],
+      "meanings": [
+        "upstairs",
+        "(Internet slang) previous poster in a forum thread"
+      ]
+    },
+    {
+      "id": "楼下",
+      "simplified": "楼下",
+      "traditional": "樓下",
+      "pinyin": "lóu xià",
+      "pinyinNumeric": "lou2 xia4",
+      "pos": [],
+      "meanings": [
+        "downstairs"
+      ]
+    },
+    {
+      "id": "路",
+      "simplified": "路",
+      "traditional": "路",
+      "pinyin": "lù",
+      "pinyinNumeric": "lu4",
+      "pos": [],
+      "meanings": [
+        "road (CL:條|条[tiao2])",
+        "journey",
+        "route",
+        "line (bus etc)",
+        "sort; kind"
+      ]
+    },
+    {
+      "id": "路口",
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lù kǒu",
+      "pinyinNumeric": "lu4 kou3",
+      "pos": [],
+      "meanings": [
+        "crossing",
+        "intersection (of roads)"
+      ]
+    },
+    {
+      "id": "路上",
+      "simplified": "路上",
+      "traditional": "路上",
+      "pinyin": "lù shang",
+      "pinyinNumeric": "lu4 shang5",
+      "pos": [],
+      "meanings": [
+        "on the road",
+        "on the way; en route"
+      ]
+    },
+    {
+      "id": "妈妈",
+      "simplified": "妈妈",
+      "traditional": "媽媽",
+      "pinyin": "mā ma",
+      "pinyinNumeric": "ma1 ma5",
+      "pos": [],
+      "meanings": [
+        "mama",
+        "mommy",
+        "mother",
+        "CL:個|个[ge4],位[wei4]"
+      ]
+    },
+    {
+      "id": "马路",
+      "simplified": "马路",
+      "traditional": "馬路",
+      "pinyin": "mǎ lù",
+      "pinyinNumeric": "ma3 lu4",
+      "pos": [],
+      "meanings": [
+        "street",
+        "road",
+        "CL:條|条[tiao2]"
+      ]
+    },
+    {
+      "id": "马上",
+      "simplified": "马上",
+      "traditional": "馬上",
+      "pinyin": "mǎ shàng",
+      "pinyinNumeric": "ma3 shang4",
+      "pos": [],
+      "meanings": [
+        "at once",
+        "right away",
+        "immediately",
+        "on horseback (i.e. by military force)"
+      ]
+    },
+    {
+      "id": "吗",
+      "simplified": "吗",
+      "traditional": "嗎",
+      "pinyin": "ma",
+      "pinyinNumeric": "ma5",
+      "pos": [],
+      "meanings": [
+        "(question particle for \"yes-no\" questions)"
+      ]
+    },
+    {
+      "id": "买",
+      "simplified": "买",
+      "traditional": "買",
+      "pinyin": "mǎi",
+      "pinyinNumeric": "mai3",
+      "pos": [],
+      "meanings": [
+        "to buy",
+        "to purchase"
+      ]
+    },
+    {
+      "id": "慢",
+      "simplified": "慢",
+      "traditional": "慢",
+      "pinyin": "màn",
+      "pinyinNumeric": "man4",
+      "pos": [],
+      "meanings": [
+        "slow"
+      ]
+    },
+    {
+      "id": "忙",
+      "simplified": "忙",
+      "traditional": "忙",
+      "pinyin": "máng",
+      "pinyinNumeric": "mang2",
+      "pos": [],
+      "meanings": [
+        "busy",
+        "hurriedly",
+        "to hurry",
+        "to rush"
+      ]
+    },
+    {
+      "id": "毛",
+      "simplified": "毛",
+      "traditional": "毛",
+      "pinyin": "máo",
+      "pinyinNumeric": "mao2",
+      "pos": [],
+      "meanings": [
+        "hair",
+        "feather",
+        "down",
+        "wool",
+        "mildew",
+        "mold",
+        "coarse or semifinished",
+        "young",
+        "raw",
+        "careless",
+        "unthinking",
+        "nervous",
+        "scared",
+        "(of currency) to devalue or depreciate",
+        "classifier for Chinese fractional monetary unit ( = 角[jiao3] , = one-tenth of a yuan or 10 fen 分[fen1])"
+      ]
+    },
+    {
+      "id": "没",
+      "simplified": "没",
+      "traditional": "沒",
+      "pinyin": "méi",
+      "pinyinNumeric": "mei2",
+      "pos": [],
+      "meanings": [
+        "(negative prefix for verbs) have not; not"
+      ]
+    },
+    {
+      "id": "没关系",
+      "simplified": "没关系",
+      "traditional": "沒關係",
+      "pinyin": "méi guān xi",
+      "pinyinNumeric": "mei2 guan1 xi5",
+      "pos": [],
+      "meanings": [
+        "it doesn't matter"
+      ]
+    },
+    {
+      "id": "没什么",
+      "simplified": "没什么",
+      "traditional": "沒什麼",
+      "pinyin": "méi shén me",
+      "pinyinNumeric": "mei2 shen2 me5",
+      "pos": [],
+      "meanings": [
+        "it doesn't matter; it's nothing; never mind",
+        "think nothing of it; it's my pleasure; you're welcome"
+      ]
+    },
+    {
+      "id": "没事儿",
+      "simplified": "没事儿",
+      "traditional": "沒事兒",
+      "pinyin": "méi shì r",
+      "pinyinNumeric": "mei2 shi4 r5",
+      "pos": [],
+      "meanings": [
+        "to have spare time",
+        "free from work",
+        "it's not important",
+        "it's nothing",
+        "never mind"
+      ]
+    },
+    {
+      "id": "没有",
+      "simplified": "没有",
+      "traditional": "沒有",
+      "pinyin": "méi yǒu",
+      "pinyinNumeric": "mei2 you3",
+      "pos": [],
+      "meanings": [
+        "haven't",
+        "hasn't",
+        "doesn't exist",
+        "to not have",
+        "to not be"
+      ]
+    },
+    {
+      "id": "妹妹",
+      "simplified": "妹妹",
+      "traditional": "妹妹",
+      "pinyin": "mèi mei",
+      "pinyinNumeric": "mei4 mei5",
+      "pos": [],
+      "meanings": [
+        "younger sister",
+        "young woman",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "门",
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "mén",
+      "pinyinNumeric": "men2",
+      "pos": [],
+      "meanings": [
+        "gate; door; doorway; gateway; opening (CL:扇[shan4])",
+        "valve; switch; other door-like or gate-like structure",
+        "way to do sth; knack; method; approach",
+        "family; household; lineage",
+        "(bound form) sect; school; faction (religious or academic)",
+        "(bound form) class; category; division; phylum",
+        "classifier for courses, fields of study, branches of technology, relatives by marriage, guns etc",
+        "(suffix) -gate (scandal)"
+      ]
+    },
+    {
+      "id": "门口",
+      "simplified": "门口",
+      "traditional": "門口",
+      "pinyin": "mén kǒu",
+      "pinyinNumeric": "men2 kou3",
+      "pos": [],
+      "meanings": [
+        "doorway",
+        "gate",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "门票",
+      "simplified": "门票",
+      "traditional": "門票",
+      "pinyin": "mén piào",
+      "pinyinNumeric": "men2 piao4",
+      "pos": [],
+      "meanings": [
+        "ticket (for theater, cinema etc)"
+      ]
+    },
+    {
+      "id": "们",
+      "simplified": "们",
+      "traditional": "們",
+      "pinyin": "men",
+      "pinyinNumeric": "men5",
+      "pos": [],
+      "meanings": [
+        "plural marker for pronouns, and nouns referring to individuals"
+      ]
+    },
+    {
+      "id": "米饭",
+      "simplified": "米饭",
+      "traditional": "米飯",
+      "pinyin": "mǐ fàn",
+      "pinyinNumeric": "mi3 fan4",
+      "pos": [],
+      "meanings": [
+        "(cooked) rice"
+      ]
+    },
+    {
+      "id": "面包",
+      "simplified": "面包",
+      "traditional": "麵包",
+      "pinyin": "miàn bāo",
+      "pinyinNumeric": "mian4 bao1",
+      "pos": [],
+      "meanings": [
+        "bread",
+        "CL:片[pian4],塊|块[kuai4]"
+      ]
+    },
+    {
+      "id": "面条儿",
+      "simplified": "面条儿",
+      "traditional": "麵條兒",
+      "pinyin": "miàn tiáo r",
+      "pinyinNumeric": "mian4 tiao2 r5",
+      "pos": [],
+      "meanings": [
+        "erhua variant of 麵條|面条[mian4 tiao2]"
+      ]
+    },
+    {
+      "id": "名字",
+      "simplified": "名字",
+      "traditional": "名字",
+      "pinyin": "míng zi",
+      "pinyinNumeric": "ming2 zi5",
+      "pos": [],
+      "meanings": [
+        "name (of a person or thing)"
+      ]
+    },
+    {
+      "id": "明白",
+      "simplified": "明白",
+      "traditional": "明白",
+      "pinyin": "míng bai",
+      "pinyinNumeric": "ming2 bai5",
+      "pos": [],
+      "meanings": [
+        "clear; obvious; unequivocal",
+        "sensible; reasonable",
+        "to understand; to realize"
+      ]
+    },
+    {
+      "id": "明年",
+      "simplified": "明年",
+      "traditional": "明年",
+      "pinyin": "míng nián",
+      "pinyinNumeric": "ming2 nian2",
+      "pos": [],
+      "meanings": [
+        "next year"
+      ]
+    },
+    {
+      "id": "明天",
+      "simplified": "明天",
+      "traditional": "明天",
+      "pinyin": "míng tiān",
+      "pinyinNumeric": "ming2 tian1",
+      "pos": [],
+      "meanings": [
+        "tomorrow"
+      ]
+    },
+    {
+      "id": "拿",
+      "simplified": "拿",
+      "traditional": "㧱",
+      "pinyin": "ná",
+      "pinyinNumeric": "na2",
+      "pos": [],
+      "meanings": [
+        "old variant of 拿[na2]"
+      ]
+    },
+    {
+      "id": "哪",
+      "simplified": "哪",
+      "traditional": "哪",
+      "pinyin": "nǎ",
+      "pinyinNumeric": "na3",
+      "pos": [],
+      "meanings": [
+        "how",
+        "which"
+      ]
+    },
+    {
+      "id": "哪儿",
+      "simplified": "哪儿",
+      "traditional": "哪兒",
+      "pinyin": "nǎ r",
+      "pinyinNumeric": "na3 r5",
+      "pos": [],
+      "meanings": [
+        "where?",
+        "wherever; anywhere; somewhere",
+        "(used in rhetorical questions) how can ...?; how could ...?"
+      ]
+    },
+    {
+      "id": "哪里",
+      "simplified": "哪里",
+      "traditional": "哪裏",
+      "pinyin": "nǎ lǐ",
+      "pinyinNumeric": "na3 li3",
+      "pos": [],
+      "meanings": [
+        "where?",
+        "somewhere",
+        "anywhere",
+        "wherever",
+        "nowhere (negative answer to question)",
+        "humble expression denying compliment",
+        "also written 哪裡|哪里"
+      ]
+    },
+    {
+      "id": "哪些",
+      "simplified": "哪些",
+      "traditional": "哪些",
+      "pinyin": "nǎ xiē",
+      "pinyinNumeric": "na3 xie1",
+      "pos": [],
+      "meanings": [
+        "which ones?",
+        "who?",
+        "what?"
+      ]
+    },
+    {
+      "id": "那",
+      "simplified": "那",
+      "traditional": "那",
+      "pinyin": "nà",
+      "pinyinNumeric": "na4",
+      "pos": [],
+      "meanings": [
+        "(specifier) that; the; those (colloquial pr. [nei4])",
+        "(pronoun) that (referring to persons, things or situations)",
+        "then (in that case)"
+      ]
+    },
+    {
+      "id": "那边",
+      "simplified": "那边",
+      "traditional": "那邊",
+      "pinyin": "nà bian",
+      "pinyinNumeric": "na4 bian5",
+      "pos": [],
+      "meanings": [
+        "over there",
+        "yonder"
+      ]
+    },
+    {
+      "id": "那儿",
+      "simplified": "那儿",
+      "traditional": "那兒",
+      "pinyin": "nà r",
+      "pinyinNumeric": "na4 r5",
+      "pos": [],
+      "meanings": [
+        "there"
+      ]
+    },
+    {
+      "id": "那里",
+      "simplified": "那里",
+      "traditional": "那裏",
+      "pinyin": "nà li",
+      "pinyinNumeric": "na4 li5",
+      "pos": [],
+      "meanings": [
+        "there; that place"
+      ]
+    },
+    {
+      "id": "那些",
+      "simplified": "那些",
+      "traditional": "那些",
+      "pinyin": "nà xiē",
+      "pinyinNumeric": "na4 xie1",
+      "pos": [],
+      "meanings": [
+        "those"
+      ]
+    },
+    {
+      "id": "奶",
+      "simplified": "奶",
+      "traditional": "奶",
+      "pinyin": "nǎi",
+      "pinyinNumeric": "nai3",
+      "pos": [],
+      "meanings": [
+        "breast",
+        "milk",
+        "to breastfeed"
+      ]
+    },
+    {
+      "id": "奶奶",
+      "simplified": "奶奶",
+      "traditional": "奶奶",
+      "pinyin": "nǎi nai",
+      "pinyinNumeric": "nai3 nai5",
+      "pos": [],
+      "meanings": [
+        "(informal) grandma (paternal grandmother)",
+        "(respectful) mistress of the house",
+        "CL:位[wei4]",
+        "(coll.) boobies",
+        "breasts"
+      ]
+    },
+    {
+      "id": "男",
+      "simplified": "男",
+      "traditional": "男",
+      "pinyin": "nán",
+      "pinyinNumeric": "nan2",
+      "pos": [],
+      "meanings": [
+        "(bound form) male",
+        "baron, the lowest of the five ranks of nobility 五等爵位[wu3 deng3 jue2 wei4]"
+      ]
+    },
+    {
+      "id": "男孩儿",
+      "simplified": "男孩儿",
+      "traditional": "男孩兒",
+      "pinyin": "nán hái r",
+      "pinyinNumeric": "nan2 hai2 r5",
+      "pos": [],
+      "meanings": [
+        "erhua form of 男孩[nan2 hai2]"
+      ]
+    },
+    {
+      "id": "男朋友",
+      "simplified": "男朋友",
+      "traditional": "男朋友",
+      "pinyin": "nán péng you",
+      "pinyinNumeric": "nan2 peng2 you5",
+      "pos": [],
+      "meanings": [
+        "boyfriend"
+      ]
+    },
+    {
+      "id": "男人",
+      "simplified": "男人",
+      "traditional": "男人",
+      "pinyin": "nán rén",
+      "pinyinNumeric": "nan2 ren2",
+      "pos": [],
+      "meanings": [
+        "a man",
+        "a male",
+        "men",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "男生",
+      "simplified": "男生",
+      "traditional": "男生",
+      "pinyin": "nán shēng",
+      "pinyinNumeric": "nan2 sheng1",
+      "pos": [],
+      "meanings": [
+        "schoolboy",
+        "male student",
+        "boy",
+        "guy (young adult male)"
+      ]
+    },
+    {
+      "id": "南",
+      "simplified": "南",
+      "traditional": "南",
+      "pinyin": "nán",
+      "pinyinNumeric": "nan2",
+      "pos": [],
+      "meanings": [
+        "south"
+      ]
+    },
+    {
+      "id": "南边",
+      "simplified": "南边",
+      "traditional": "南邊",
+      "pinyin": "nán bian",
+      "pinyinNumeric": "nan2 bian5",
+      "pos": [],
+      "meanings": [
+        "south",
+        "south side",
+        "southern part",
+        "to the south of"
+      ]
+    },
+    {
+      "id": "难",
+      "simplified": "难",
+      "traditional": "難",
+      "pinyin": "nán",
+      "pinyinNumeric": "nan2",
+      "pos": [],
+      "meanings": [
+        "difficult (to...)",
+        "problem",
+        "difficulty",
+        "difficult",
+        "not good"
+      ]
+    },
+    {
+      "id": "呢",
+      "simplified": "呢",
+      "traditional": "呢",
+      "pinyin": "ne",
+      "pinyinNumeric": "ne5",
+      "pos": [],
+      "meanings": [
+        "(sentence-final particle) used in questions to link back to prior discourse or context (\"what about...?\", \"and...?\")",
+        "(sentence-final particle) indicating that a state or situation still holds",
+        "(discourse particle) used to mark a slight pause or emphasis in speech"
+      ]
+    },
+    {
+      "id": "能",
+      "simplified": "能",
+      "traditional": "能",
+      "pinyin": "néng",
+      "pinyinNumeric": "neng2",
+      "pos": [],
+      "meanings": [
+        "can",
+        "to be able to",
+        "might possibly",
+        "ability",
+        "(physics) energy"
+      ]
+    },
+    {
+      "id": "你",
+      "simplified": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "pinyinNumeric": "ni3",
+      "pos": [],
+      "meanings": [
+        "you (informal, as opposed to courteous 您[nin2])"
+      ]
+    },
+    {
+      "id": "你们",
+      "simplified": "你们",
+      "traditional": "你們",
+      "pinyin": "nǐ men",
+      "pinyinNumeric": "ni3 men5",
+      "pos": [],
+      "meanings": [
+        "you (plural)"
+      ]
+    },
+    {
+      "id": "年",
+      "simplified": "年",
+      "traditional": "年",
+      "pinyin": "nián",
+      "pinyinNumeric": "nian2",
+      "pos": [],
+      "meanings": [
+        "year",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "您",
+      "simplified": "您",
+      "traditional": "您",
+      "pinyin": "nín",
+      "pinyinNumeric": "nin2",
+      "pos": [],
+      "meanings": [
+        "you (courteous, as opposed to informal 你[ni3])"
+      ]
+    },
+    {
+      "id": "牛奶",
+      "simplified": "牛奶",
+      "traditional": "牛奶",
+      "pinyin": "niú nǎi",
+      "pinyinNumeric": "niu2 nai3",
+      "pos": [],
+      "meanings": [
+        "cow's milk",
+        "CL:瓶[ping2],杯[bei1]"
+      ]
+    },
+    {
+      "id": "女",
+      "simplified": "女",
+      "traditional": "女",
+      "pinyin": "nǔ:",
+      "pinyinNumeric": "nu:3",
+      "pos": [],
+      "meanings": [
+        "female",
+        "woman",
+        "daughter"
+      ]
+    },
+    {
+      "id": "女儿",
+      "simplified": "女儿",
+      "traditional": "女兒",
+      "pinyin": "nǔ: ér",
+      "pinyinNumeric": "nu:3 er2",
+      "pos": [],
+      "meanings": [
+        "daughter"
+      ]
+    },
+    {
+      "id": "女孩儿",
+      "simplified": "女孩儿",
+      "traditional": "女孩兒",
+      "pinyin": "nǔ: hái r",
+      "pinyinNumeric": "nu:3 hai2 r5",
+      "pos": [],
+      "meanings": [
+        "erhua form of 女孩[nu : 3 hai2]"
+      ]
+    },
+    {
+      "id": "女朋友",
+      "simplified": "女朋友",
+      "traditional": "女朋友",
+      "pinyin": "nǔ: péng you",
+      "pinyinNumeric": "nu:3 peng2 you5",
+      "pos": [],
+      "meanings": [
+        "girlfriend"
+      ]
+    },
+    {
+      "id": "女人",
+      "simplified": "女人",
+      "traditional": "女人",
+      "pinyin": "nǔ: rén",
+      "pinyinNumeric": "nu:3 ren2",
+      "pos": [],
+      "meanings": [
+        "woman"
+      ]
+    },
+    {
+      "id": "女生",
+      "simplified": "女生",
+      "traditional": "女生",
+      "pinyin": "nǔ: shēng",
+      "pinyinNumeric": "nu:3 sheng1",
+      "pos": [],
+      "meanings": [
+        "schoolgirl",
+        "female student",
+        "girl"
+      ]
+    },
+    {
+      "id": "旁边",
+      "simplified": "旁边",
+      "traditional": "旁邊",
+      "pinyin": "páng biān",
+      "pinyinNumeric": "pang2 bian1",
+      "pos": [],
+      "meanings": [
+        "side; adjacent place"
+      ]
+    },
+    {
+      "id": "跑",
+      "simplified": "跑",
+      "traditional": "跑",
+      "pinyin": "pǎo",
+      "pinyinNumeric": "pao3",
+      "pos": [],
+      "meanings": [
+        "to run",
+        "to run away",
+        "to escape",
+        "to run around (on errands etc)",
+        "(of a gas or liquid) to leak or evaporate",
+        "(verb complement) away",
+        "off"
+      ]
+    },
+    {
+      "id": "朋友",
+      "simplified": "朋友",
+      "traditional": "朋友",
+      "pinyin": "péng you",
+      "pinyinNumeric": "peng2 you5",
+      "pos": [],
+      "meanings": [
+        "friend",
+        "CL:個|个[ge4],位[wei4]"
+      ]
+    },
+    {
+      "id": "票",
+      "simplified": "票",
+      "traditional": "票",
+      "pinyin": "piào",
+      "pinyinNumeric": "piao4",
+      "pos": [],
+      "meanings": [
+        "ticket",
+        "ballot",
+        "banknote",
+        "CL:張|张[zhang1]",
+        "person held for ransom",
+        "amateur performance of Chinese opera",
+        "classifier for groups, batches, business transactions"
+      ]
+    },
+    {
+      "id": "七",
+      "simplified": "七",
+      "traditional": "七",
+      "pinyin": "qī",
+      "pinyinNumeric": "qi1",
+      "pos": [],
+      "meanings": [
+        "seven",
+        "7"
+      ]
+    },
+    {
+      "id": "起",
+      "simplified": "起",
+      "traditional": "起",
+      "pinyin": "qǐ",
+      "pinyinNumeric": "qi3",
+      "pos": [],
+      "meanings": [
+        "to rise",
+        "to raise",
+        "to get up",
+        "to set out",
+        "to start",
+        "to appear",
+        "to launch",
+        "to initiate (action)",
+        "to draft",
+        "to establish",
+        "to get (from a depot or counter)",
+        "verb suffix, to start",
+        "starting from (a time, place, price etc)",
+        "classifier for occurrences or unpredictable events: case, instance",
+        "classifier for groups: batch, group"
+      ]
+    },
+    {
+      "id": "起床",
+      "simplified": "起床",
+      "traditional": "起床",
+      "pinyin": "qǐ chuáng",
+      "pinyinNumeric": "qi3 chuang2",
+      "pos": [],
+      "meanings": [
+        "to get out of bed; to get up"
+      ]
+    },
+    {
+      "id": "起来",
+      "simplified": "起来",
+      "traditional": "起來",
+      "pinyin": "qǐ lai",
+      "pinyinNumeric": "qi3 lai5",
+      "pos": [],
+      "meanings": [
+        "to stand up; to get up",
+        "also pr. [qi3lai2]"
+      ]
+    },
+    {
+      "id": "汽车",
+      "simplified": "汽车",
+      "traditional": "汽車",
+      "pinyin": "qì chē",
+      "pinyinNumeric": "qi4 che1",
+      "pos": [],
+      "meanings": [
+        "car",
+        "automobile",
+        "bus",
+        "CL:輛|辆[liang4]"
+      ]
+    },
+    {
+      "id": "前",
+      "simplified": "前",
+      "traditional": "前",
+      "pinyin": "qián",
+      "pinyinNumeric": "qian2",
+      "pos": [],
+      "meanings": [
+        "front",
+        "forward",
+        "ahead",
+        "first",
+        "top (followed by a number)",
+        "future",
+        "ago",
+        "before",
+        "BC (e.g. 前293年)",
+        "former",
+        "formerly"
+      ]
+    },
+    {
+      "id": "前边",
+      "simplified": "前边",
+      "traditional": "前邊",
+      "pinyin": "qián bian",
+      "pinyinNumeric": "qian2 bian5",
+      "pos": [],
+      "meanings": [
+        "front",
+        "the front side",
+        "in front of"
+      ]
+    },
+    {
+      "id": "前天",
+      "simplified": "前天",
+      "traditional": "前天",
+      "pinyin": "qián tiān",
+      "pinyinNumeric": "qian2 tian1",
+      "pos": [],
+      "meanings": [
+        "the day before yesterday"
+      ]
+    },
+    {
+      "id": "钱",
+      "simplified": "钱",
+      "traditional": "錢",
+      "pinyin": "qián",
+      "pinyinNumeric": "qian2",
+      "pos": [],
+      "meanings": [
+        "coin",
+        "money",
+        "CL:筆|笔[bi3]",
+        "unit of weight, one tenth of a tael 兩|两[liang3]"
+      ]
+    },
+    {
+      "id": "钱包",
+      "simplified": "钱包",
+      "traditional": "錢包",
+      "pinyin": "qián bāo",
+      "pinyinNumeric": "qian2 bao1",
+      "pos": [],
+      "meanings": [
+        "purse",
+        "wallet"
+      ]
+    },
+    {
+      "id": "请",
+      "simplified": "请",
+      "traditional": "請",
+      "pinyin": "qǐng",
+      "pinyinNumeric": "qing3",
+      "pos": [],
+      "meanings": [
+        "to ask",
+        "to invite",
+        "please (do sth)",
+        "to treat (to a meal etc)",
+        "to request"
+      ]
+    },
+    {
+      "id": "请假",
+      "simplified": "请假",
+      "traditional": "請假",
+      "pinyin": "qǐng jià",
+      "pinyinNumeric": "qing3 jia4",
+      "pos": [],
+      "meanings": [
+        "to request leave of absence"
+      ]
+    },
+    {
+      "id": "请进",
+      "simplified": "请进",
+      "traditional": "請進",
+      "pinyin": "qǐng jìn",
+      "pinyinNumeric": "qing3 jin4",
+      "pos": [],
+      "meanings": [
+        "\"please come in\""
+      ]
+    },
+    {
+      "id": "请问",
+      "simplified": "请问",
+      "traditional": "請問",
+      "pinyin": "qǐng wèn",
+      "pinyinNumeric": "qing3 wen4",
+      "pos": [],
+      "meanings": [
+        "Excuse me, may I ask...?"
+      ]
+    },
+    {
+      "id": "请坐",
+      "simplified": "请坐",
+      "traditional": "請坐",
+      "pinyin": "qǐng zuò",
+      "pinyinNumeric": "qing3 zuo4",
+      "pos": [],
+      "meanings": [
+        "please, have a seat"
+      ]
+    },
+    {
+      "id": "球",
+      "simplified": "球",
+      "traditional": "毬",
+      "pinyin": "qiú",
+      "pinyinNumeric": "qiu2",
+      "pos": [],
+      "meanings": [
+        "ball used for playing games (variant of 球[qiu2])"
+      ]
+    },
+    {
+      "id": "去",
+      "simplified": "去",
+      "traditional": "去",
+      "pinyin": "qù",
+      "pinyinNumeric": "qu4",
+      "pos": [],
+      "meanings": [
+        "to go",
+        "to go to (a place)",
+        "(of a time etc) last",
+        "just passed",
+        "to send",
+        "to remove",
+        "to get rid of",
+        "to reduce",
+        "to be apart from in space or time",
+        "to die (euphemism)",
+        "to play (a part)",
+        "(when used either before or after a verb) to go in order to do sth",
+        "(after a verb of motion indicates movement away from the speaker)",
+        "(used after certain verbs to indicate detachment or separation)"
+      ]
+    },
+    {
+      "id": "去年",
+      "simplified": "去年",
+      "traditional": "去年",
+      "pinyin": "qù nián",
+      "pinyinNumeric": "qu4 nian2",
+      "pos": [],
+      "meanings": [
+        "last year"
+      ]
+    },
+    {
+      "id": "热",
+      "simplified": "热",
+      "traditional": "熱",
+      "pinyin": "rè",
+      "pinyinNumeric": "re4",
+      "pos": [],
+      "meanings": [
+        "to warm up",
+        "to heat up",
+        "hot (of weather)",
+        "heat",
+        "fervent"
+      ]
+    },
+    {
+      "id": "人",
+      "simplified": "人",
+      "traditional": "人",
+      "pinyin": "rén",
+      "pinyinNumeric": "ren2",
+      "pos": [],
+      "meanings": [
+        "person; people",
+        "CL:個|个[ge4],位[wei4],名[ming2]"
+      ]
+    },
+    {
+      "id": "认识",
+      "simplified": "认识",
+      "traditional": "認識",
+      "pinyin": "rèn shi",
+      "pinyinNumeric": "ren4 shi5",
+      "pos": [],
+      "meanings": [
+        "to know",
+        "to recognize",
+        "to be familiar with",
+        "to get acquainted with sb",
+        "knowledge",
+        "understanding",
+        "awareness",
+        "cognition"
+      ]
+    },
+    {
+      "id": "认真",
+      "simplified": "认真",
+      "traditional": "認真",
+      "pinyin": "rèn zhēn",
+      "pinyinNumeric": "ren4 zhen1",
+      "pos": [],
+      "meanings": [
+        "conscientious",
+        "earnest",
+        "serious",
+        "to take seriously",
+        "to take to heart"
+      ]
+    },
+    {
+      "id": "日",
+      "simplified": "日",
+      "traditional": "日",
+      "pinyin": "rì",
+      "pinyinNumeric": "ri4",
+      "pos": [],
+      "meanings": [
+        "(bound form) sun",
+        "day",
+        "day of the month",
+        "(bound form) Japan (abbr. for 日本[Ri4 ben3])",
+        "(vulgar) to fuck; to have sex with"
+      ]
+    },
+    {
+      "id": "日期",
+      "simplified": "日期",
+      "traditional": "日期",
+      "pinyin": "rì qī",
+      "pinyinNumeric": "ri4 qi1",
+      "pos": [],
+      "meanings": [
+        "date"
+      ]
+    },
+    {
+      "id": "肉",
+      "simplified": "肉",
+      "traditional": "肉",
+      "pinyin": "ròu",
+      "pinyinNumeric": "rou4",
+      "pos": [],
+      "meanings": [
+        "meat",
+        "flesh",
+        "pulp (of a fruit)",
+        "(coll.) (of a fruit) squashy",
+        "(of a person) flabby",
+        "irresolute",
+        "Kangxi radical 130"
+      ]
+    },
+    {
+      "id": "三",
+      "simplified": "三",
+      "traditional": "三",
+      "pinyin": "sān",
+      "pinyinNumeric": "san1",
+      "pos": [],
+      "meanings": [
+        "three",
+        "3"
+      ]
+    },
+    {
+      "id": "山",
+      "simplified": "山",
+      "traditional": "山",
+      "pinyin": "shān",
+      "pinyinNumeric": "shan1",
+      "pos": [],
+      "meanings": [
+        "mountain; hill (CL:座[zuo4])",
+        "(coll.) small bundle of straw for silkworms to spin cocoons on"
+      ]
+    },
+    {
+      "id": "商场",
+      "simplified": "商场",
+      "traditional": "商場",
+      "pinyin": "shāng chǎng",
+      "pinyinNumeric": "shang1 chang3",
+      "pos": [],
+      "meanings": [
+        "shopping mall",
+        "shopping center",
+        "department store",
+        "emporium",
+        "CL:家[jia1]",
+        "the business world"
+      ]
+    },
+    {
+      "id": "商店",
+      "simplified": "商店",
+      "traditional": "商店",
+      "pinyin": "shāng diàn",
+      "pinyinNumeric": "shang1 dian4",
+      "pos": [],
+      "meanings": [
+        "store; shop",
+        "CL:家[jia1]"
+      ]
+    },
+    {
+      "id": "上",
+      "simplified": "上",
+      "traditional": "上",
+      "pinyin": "shàng",
+      "pinyinNumeric": "shang4",
+      "pos": [],
+      "meanings": [
+        "(bound form) up; upper; above; previous",
+        "first (of multiple parts)",
+        "to climb; to get onto; to go up",
+        "to attend (class or university)",
+        "(directional complement) up",
+        "(noun suffix) on; above"
+      ]
+    },
+    {
+      "id": "上班",
+      "simplified": "上班",
+      "traditional": "上班",
+      "pinyin": "shàng bān",
+      "pinyinNumeric": "shang4 ban1",
+      "pos": [],
+      "meanings": [
+        "to go to work",
+        "to be on duty",
+        "to start work",
+        "to go to the office"
+      ]
+    },
+    {
+      "id": "上边",
+      "simplified": "上边",
+      "traditional": "上邊",
+      "pinyin": "shàng bian",
+      "pinyinNumeric": "shang4 bian5",
+      "pos": [],
+      "meanings": [
+        "the top",
+        "above",
+        "overhead",
+        "upwards",
+        "the top margin",
+        "above-mentioned",
+        "those higher up"
+      ]
+    },
+    {
+      "id": "上车",
+      "simplified": "上车",
+      "traditional": "上車",
+      "pinyin": "shàng chē",
+      "pinyinNumeric": "shang4 che1",
+      "pos": [],
+      "meanings": [
+        "to get on or into (a bus, train, car etc)"
+      ]
+    },
+    {
+      "id": "上次",
+      "simplified": "上次",
+      "traditional": "上次",
+      "pinyin": "shàng cì",
+      "pinyinNumeric": "shang4 ci4",
+      "pos": [],
+      "meanings": [
+        "last time"
+      ]
+    },
+    {
+      "id": "上课",
+      "simplified": "上课",
+      "traditional": "上課",
+      "pinyin": "shàng kè",
+      "pinyinNumeric": "shang4 ke4",
+      "pos": [],
+      "meanings": [
+        "to go to class",
+        "to attend class",
+        "to go to teach a class"
+      ]
+    },
+    {
+      "id": "上网",
+      "simplified": "上网",
+      "traditional": "上網",
+      "pinyin": "shàng wǎng",
+      "pinyinNumeric": "shang4 wang3",
+      "pos": [],
+      "meanings": [
+        "to go online",
+        "to connect to the Internet",
+        "(of a document etc) to be uploaded to the Internet",
+        "(tennis, volleyball etc) to move in close to the net"
+      ]
+    },
+    {
+      "id": "上午",
+      "simplified": "上午",
+      "traditional": "上午",
+      "pinyin": "shàng wǔ",
+      "pinyinNumeric": "shang4 wu3",
+      "pos": [],
+      "meanings": [
+        "morning"
+      ]
+    },
+    {
+      "id": "上学",
+      "simplified": "上学",
+      "traditional": "上學",
+      "pinyin": "shàng xué",
+      "pinyinNumeric": "shang4 xue2",
+      "pos": [],
+      "meanings": [
+        "to go to school",
+        "to attend school"
+      ]
+    },
+    {
+      "id": "少",
+      "simplified": "少",
+      "traditional": "少",
+      "pinyin": "shǎo",
+      "pinyinNumeric": "shao3",
+      "pos": [],
+      "meanings": [
+        "few",
+        "less",
+        "to lack",
+        "to be missing",
+        "to stop (doing sth)",
+        "seldom"
+      ]
+    },
+    {
+      "id": "谁",
+      "simplified": "谁",
+      "traditional": "誰",
+      "pinyin": "shéi",
+      "pinyinNumeric": "shei2",
+      "pos": [],
+      "meanings": [
+        "who",
+        "also pr. [shui2]"
+      ]
+    },
+    {
+      "id": "身上",
+      "simplified": "身上",
+      "traditional": "身上",
+      "pinyin": "shēn shang",
+      "pinyinNumeric": "shen1 shang5",
+      "pos": [],
+      "meanings": [
+        "on the body",
+        "at hand",
+        "among"
+      ]
+    },
+    {
+      "id": "身体",
+      "simplified": "身体",
+      "traditional": "身體",
+      "pinyin": "shēn tǐ",
+      "pinyinNumeric": "shen1 ti3",
+      "pos": [],
+      "meanings": [
+        "the body",
+        "one's health"
+      ]
+    },
+    {
+      "id": "什么",
+      "simplified": "什么",
+      "traditional": "什麼",
+      "pinyin": "shén me",
+      "pinyinNumeric": "shen2 me5",
+      "pos": [],
+      "meanings": [
+        "what?",
+        "something; anything"
+      ]
+    },
+    {
+      "id": "生病",
+      "simplified": "生病",
+      "traditional": "生病",
+      "pinyin": "shēng bìng",
+      "pinyinNumeric": "sheng1 bing4",
+      "pos": [],
+      "meanings": [
+        "to fall ill"
+      ]
+    },
+    {
+      "id": "生气",
+      "simplified": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēng qì",
+      "pinyinNumeric": "sheng1 qi4",
+      "pos": [],
+      "meanings": [
+        "to get angry; to be furious",
+        "vitality; liveliness"
+      ]
+    },
+    {
+      "id": "生日",
+      "simplified": "生日",
+      "traditional": "生日",
+      "pinyin": "shēng rì",
+      "pinyinNumeric": "sheng1 ri4",
+      "pos": [],
+      "meanings": [
+        "birthday",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "十",
+      "simplified": "十",
+      "traditional": "十",
+      "pinyin": "shí",
+      "pinyinNumeric": "shi2",
+      "pos": [],
+      "meanings": [
+        "ten",
+        "10"
+      ]
+    },
+    {
+      "id": "时候",
+      "simplified": "时候",
+      "traditional": "時候",
+      "pinyin": "shí hou",
+      "pinyinNumeric": "shi2 hou5",
+      "pos": [],
+      "meanings": [
+        "time",
+        "length of time",
+        "moment",
+        "period"
+      ]
+    },
+    {
+      "id": "时间",
+      "simplified": "时间",
+      "traditional": "時間",
+      "pinyin": "shí jiān",
+      "pinyinNumeric": "shi2 jian1",
+      "pos": [],
+      "meanings": [
+        "(concept of) time",
+        "(duration of) time",
+        "(point in) time"
+      ]
+    },
+    {
+      "id": "事",
+      "simplified": "事",
+      "traditional": "事",
+      "pinyin": "shì",
+      "pinyinNumeric": "shi4",
+      "pos": [],
+      "meanings": [
+        "matter",
+        "thing",
+        "item",
+        "work",
+        "affair",
+        "CL:件[jian4],樁|桩[zhuang1],回[hui2]"
+      ]
+    },
+    {
+      "id": "试",
+      "simplified": "试",
+      "traditional": "試",
+      "pinyin": "shì",
+      "pinyinNumeric": "shi4",
+      "pos": [],
+      "meanings": [
+        "to test",
+        "to try",
+        "experiment",
+        "examination",
+        "test"
+      ]
+    },
+    {
+      "id": "是",
+      "simplified": "是",
+      "traditional": "是",
+      "pinyin": "shì",
+      "pinyinNumeric": "shi4",
+      "pos": [],
+      "meanings": [
+        "to be (followed by substantives only)",
+        "correct; right; true",
+        "(respectful acknowledgement of a command) very well",
+        "(adverb for emphatic assertion)"
+      ]
+    },
+    {
+      "id": "是不是",
+      "simplified": "是不是",
+      "traditional": "是不是",
+      "pinyin": "shì bu shì",
+      "pinyinNumeric": "shi4 bu5 shi4",
+      "pos": [],
+      "meanings": [
+        "is or is not (used to form yes-no questions)"
+      ]
+    },
+    {
+      "id": "手",
+      "simplified": "手",
+      "traditional": "手",
+      "pinyin": "shǒu",
+      "pinyinNumeric": "shou3",
+      "pos": [],
+      "meanings": [
+        "hand",
+        "(formal) to hold",
+        "person engaged in certain types of work",
+        "person skilled in certain types of work",
+        "personal(ly)",
+        "convenient",
+        "classifier for skill",
+        "CL:雙|双[shuang1],隻|只[zhi1]"
+      ]
+    },
+    {
+      "id": "手机",
+      "simplified": "手机",
+      "traditional": "手機",
+      "pinyin": "shǒu jī",
+      "pinyinNumeric": "shou3 ji1",
+      "pos": [],
+      "meanings": [
+        "cell phone; mobile phone",
+        "CL:部[bu4],臺|台[tai2]"
+      ]
+    },
+    {
+      "id": "书",
+      "simplified": "书",
+      "traditional": "書",
+      "pinyin": "shū",
+      "pinyinNumeric": "shu1",
+      "pos": [],
+      "meanings": [
+        "book",
+        "letter",
+        "document",
+        "CL:本[ben3],冊|册[ce4],部[bu4]",
+        "to write"
+      ]
+    },
+    {
+      "id": "书包",
+      "simplified": "书包",
+      "traditional": "書包",
+      "pinyin": "shū bāo",
+      "pinyinNumeric": "shu1 bao1",
+      "pos": [],
+      "meanings": [
+        "schoolbag",
+        "satchel",
+        "bookbag",
+        "CL:個|个[ge4],隻|只[zhi1]"
+      ]
+    },
+    {
+      "id": "书店",
+      "simplified": "书店",
+      "traditional": "書店",
+      "pinyin": "shū diàn",
+      "pinyinNumeric": "shu1 dian4",
+      "pos": [],
+      "meanings": [
+        "bookstore",
+        "CL:家[jia1]"
+      ]
+    },
+    {
+      "id": "树",
+      "simplified": "树",
+      "traditional": "樹",
+      "pinyin": "shù",
+      "pinyinNumeric": "shu4",
+      "pos": [],
+      "meanings": [
+        "tree",
+        "CL:棵[ke1]",
+        "to cultivate",
+        "to set up"
+      ]
+    },
+    {
+      "id": "水",
+      "simplified": "水",
+      "traditional": "水",
+      "pinyin": "shuǐ",
+      "pinyinNumeric": "shui3",
+      "pos": [],
+      "meanings": [
+        "water",
+        "(after a name) ... River",
+        "to swim (used mostly in 會水|会水[hui4 shui3] and 水性[shui3 xing4])",
+        "(coll.) lacking in substance; shoddy",
+        "(bound form) additional cost; extra income",
+        "classifier for washings of a garment"
+      ]
+    },
+    {
+      "id": "水果",
+      "simplified": "水果",
+      "traditional": "水果",
+      "pinyin": "shuǐ guǒ",
+      "pinyinNumeric": "shui3 guo3",
+      "pos": [],
+      "meanings": [
+        "fruit"
+      ]
+    },
+    {
+      "id": "睡",
+      "simplified": "睡",
+      "traditional": "睡",
+      "pinyin": "shuì",
+      "pinyinNumeric": "shui4",
+      "pos": [],
+      "meanings": [
+        "to sleep",
+        "to lie down"
+      ]
+    },
+    {
+      "id": "睡觉",
+      "simplified": "睡觉",
+      "traditional": "睡覺",
+      "pinyin": "shuì jiào",
+      "pinyinNumeric": "shui4 jiao4",
+      "pos": [],
+      "meanings": [
+        "to go to bed",
+        "to sleep"
+      ]
+    },
+    {
+      "id": "说",
+      "simplified": "说",
+      "traditional": "說",
+      "pinyin": "shuō",
+      "pinyinNumeric": "shuo1",
+      "pos": [],
+      "meanings": [
+        "to speak; to talk; to say",
+        "to explain; to comment",
+        "to scold; to tell off",
+        "(bound form) theory; doctrine"
+      ]
+    },
+    {
+      "id": "说话",
+      "simplified": "说话",
+      "traditional": "說話",
+      "pinyin": "shuō huà",
+      "pinyinNumeric": "shuo1 hua4",
+      "pos": [],
+      "meanings": [
+        "to speak",
+        "to say",
+        "to talk",
+        "to gossip",
+        "to tell stories",
+        "talk",
+        "word"
+      ]
+    },
+    {
+      "id": "四",
+      "simplified": "四",
+      "traditional": "四",
+      "pinyin": "sì",
+      "pinyinNumeric": "si4",
+      "pos": [],
+      "meanings": [
+        "four",
+        "4"
+      ]
+    },
+    {
+      "id": "送",
+      "simplified": "送",
+      "traditional": "送",
+      "pinyin": "sòng",
+      "pinyinNumeric": "song4",
+      "pos": [],
+      "meanings": [
+        "to send; to deliver; to transmit",
+        "to give (as a present)",
+        "to see (sb) off",
+        "to accompany; to go along with"
+      ]
+    },
+    {
+      "id": "岁",
+      "simplified": "岁",
+      "traditional": "嵗",
+      "pinyin": "suì",
+      "pinyinNumeric": "sui4",
+      "pos": [],
+      "meanings": [
+        "variant of 歲|岁[sui4], year",
+        "years old"
+      ]
+    },
+    {
+      "id": "他",
+      "simplified": "他",
+      "traditional": "他",
+      "pinyin": "tā",
+      "pinyinNumeric": "ta1",
+      "pos": [],
+      "meanings": [
+        "(third-person singular) (since the early 20th century, usu. male) he; him; his",
+        "(bound form) other; another; some other (as in 他日[ta1 ri4] and 他人[ta1 ren2])"
+      ]
+    },
+    {
+      "id": "他们",
+      "simplified": "他们",
+      "traditional": "他們",
+      "pinyin": "tā men",
+      "pinyinNumeric": "ta1 men5",
+      "pos": [],
+      "meanings": [
+        "they; them"
+      ]
+    },
+    {
+      "id": "她",
+      "simplified": "她",
+      "traditional": "她",
+      "pinyin": "tā",
+      "pinyinNumeric": "ta1",
+      "pos": [],
+      "meanings": [
+        "she"
+      ]
+    },
+    {
+      "id": "她们",
+      "simplified": "她们",
+      "traditional": "她們",
+      "pinyin": "tā men",
+      "pinyinNumeric": "ta1 men5",
+      "pos": [],
+      "meanings": [
+        "they; them (females)"
+      ]
+    },
+    {
+      "id": "太",
+      "simplified": "太",
+      "traditional": "太",
+      "pinyin": "tài",
+      "pinyinNumeric": "tai4",
+      "pos": [],
+      "meanings": [
+        "highest",
+        "greatest",
+        "too (much)",
+        "very",
+        "extremely"
+      ]
+    },
+    {
+      "id": "天",
+      "simplified": "天",
+      "traditional": "天",
+      "pinyin": "tiān",
+      "pinyinNumeric": "tian1",
+      "pos": [],
+      "meanings": [
+        "day",
+        "sky",
+        "heaven"
+      ]
+    },
+    {
+      "id": "天气",
+      "simplified": "天气",
+      "traditional": "天氣",
+      "pinyin": "tiān qì",
+      "pinyinNumeric": "tian1 qi4",
+      "pos": [],
+      "meanings": [
+        "weather"
+      ]
+    },
+    {
+      "id": "听",
+      "simplified": "听",
+      "traditional": "聽",
+      "pinyin": "tīng",
+      "pinyinNumeric": "ting1",
+      "pos": [],
+      "meanings": [
+        "to listen to; to hear",
+        "to heed; to obey",
+        "a can (loanword from English \"tin\")",
+        "classifier for canned beverages",
+        "to let be; to allow (Taiwan pr. [ting4])",
+        "(literary) to administer; to deal with (Taiwan pr. [ting4])"
+      ]
+    },
+    {
+      "id": "听到",
+      "simplified": "听到",
+      "traditional": "聽到",
+      "pinyin": "tīng dào",
+      "pinyinNumeric": "ting1 dao4",
+      "pos": [],
+      "meanings": [
+        "to hear"
+      ]
+    },
+    {
+      "id": "听见",
+      "simplified": "听见",
+      "traditional": "聽見",
+      "pinyin": "tīng jiàn",
+      "pinyinNumeric": "ting1 jian4",
+      "pos": [],
+      "meanings": [
+        "to hear"
+      ]
+    },
+    {
+      "id": "听写",
+      "simplified": "听写",
+      "traditional": "聽寫",
+      "pinyin": "tīng xiě",
+      "pinyinNumeric": "ting1 xie3",
+      "pos": [],
+      "meanings": [
+        "(of a pupil) to write down (in a dictation exercise); dictation",
+        "(music) to transcribe by ear"
+      ]
+    },
+    {
+      "id": "同学",
+      "simplified": "同学",
+      "traditional": "同學",
+      "pinyin": "tóng xué",
+      "pinyinNumeric": "tong2 xue2",
+      "pos": [],
+      "meanings": [
+        "to study at the same school",
+        "fellow student",
+        "classmate",
+        "CL:位[wei4],個|个[ge4]"
+      ]
+    },
+    {
+      "id": "图书馆",
+      "simplified": "图书馆",
+      "traditional": "圖書館",
+      "pinyin": "tú shū guǎn",
+      "pinyinNumeric": "tu2 shu1 guan3",
+      "pos": [],
+      "meanings": [
+        "library",
+        "CL:家[jia1],個|个[ge4]"
+      ]
+    },
+    {
+      "id": "外",
+      "simplified": "外",
+      "traditional": "外",
+      "pinyin": "wài",
+      "pinyinNumeric": "wai4",
+      "pos": [],
+      "meanings": [
+        "outside",
+        "in addition",
+        "foreign",
+        "external"
+      ]
+    },
+    {
+      "id": "外边",
+      "simplified": "外边",
+      "traditional": "外邊",
+      "pinyin": "wài bian",
+      "pinyinNumeric": "wai4 bian5",
+      "pos": [],
+      "meanings": [
+        "outside",
+        "outer surface",
+        "abroad",
+        "place other than one's home"
+      ]
+    },
+    {
+      "id": "外国",
+      "simplified": "外国",
+      "traditional": "外國",
+      "pinyin": "wài guó",
+      "pinyinNumeric": "wai4 guo2",
+      "pos": [],
+      "meanings": [
+        "foreign country"
+      ]
+    },
+    {
+      "id": "外语",
+      "simplified": "外语",
+      "traditional": "外語",
+      "pinyin": "wài yǔ",
+      "pinyinNumeric": "wai4 yu3",
+      "pos": [],
+      "meanings": [
+        "foreign language",
+        "CL:門|门[men2]"
+      ]
+    },
+    {
+      "id": "玩儿",
+      "simplified": "玩儿",
+      "traditional": "玩兒",
+      "pinyin": "wán r",
+      "pinyinNumeric": "wan2 r5",
+      "pos": [],
+      "meanings": [
+        "to play",
+        "to have fun",
+        "to hang out"
+      ]
+    },
+    {
+      "id": "晚",
+      "simplified": "晚",
+      "traditional": "晚",
+      "pinyin": "wǎn",
+      "pinyinNumeric": "wan3",
+      "pos": [],
+      "meanings": [
+        "evening",
+        "night",
+        "late"
+      ]
+    },
+    {
+      "id": "晚饭",
+      "simplified": "晚饭",
+      "traditional": "晚飯",
+      "pinyin": "wǎn fàn",
+      "pinyinNumeric": "wan3 fan4",
+      "pos": [],
+      "meanings": [
+        "evening meal",
+        "dinner",
+        "supper",
+        "CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+      ]
+    },
+    {
+      "id": "晚上",
+      "simplified": "晚上",
+      "traditional": "晚上",
+      "pinyin": "wǎn shang",
+      "pinyinNumeric": "wan3 shang5",
+      "pos": [],
+      "meanings": [
+        "evening",
+        "night",
+        "CL:個|个[ge4]",
+        "in the evening"
+      ]
+    },
+    {
+      "id": "网上",
+      "simplified": "网上",
+      "traditional": "網上",
+      "pinyin": "wǎng shàng",
+      "pinyinNumeric": "wang3 shang4",
+      "pos": [],
+      "meanings": [
+        "online"
+      ]
+    },
+    {
+      "id": "网友",
+      "simplified": "网友",
+      "traditional": "網友",
+      "pinyin": "wǎng yǒu",
+      "pinyinNumeric": "wang3 you3",
+      "pos": [],
+      "meanings": [
+        "online friend",
+        "netizen; Internet user"
+      ]
+    },
+    {
+      "id": "忘",
+      "simplified": "忘",
+      "traditional": "忘",
+      "pinyin": "wàng",
+      "pinyinNumeric": "wang4",
+      "pos": [],
+      "meanings": [
+        "to forget",
+        "to overlook",
+        "to neglect"
+      ]
+    },
+    {
+      "id": "忘记",
+      "simplified": "忘记",
+      "traditional": "忘記",
+      "pinyin": "wàng jì",
+      "pinyinNumeric": "wang4 ji4",
+      "pos": [],
+      "meanings": [
+        "to forget"
+      ]
+    },
+    {
+      "id": "问",
+      "simplified": "问",
+      "traditional": "問",
+      "pinyin": "wèn",
+      "pinyinNumeric": "wen4",
+      "pos": [],
+      "meanings": [
+        "to ask; to inquire"
+      ]
+    },
+    {
+      "id": "我",
+      "simplified": "我",
+      "traditional": "我",
+      "pinyin": "wǒ",
+      "pinyinNumeric": "wo3",
+      "pos": [],
+      "meanings": [
+        "I; me; my"
+      ]
+    },
+    {
+      "id": "我们",
+      "simplified": "我们",
+      "traditional": "我們",
+      "pinyin": "wǒ men",
+      "pinyinNumeric": "wo3 men5",
+      "pos": [],
+      "meanings": [
+        "we; us; ourselves; our"
+      ]
+    },
+    {
+      "id": "五",
+      "simplified": "五",
+      "traditional": "五",
+      "pinyin": "wǔ",
+      "pinyinNumeric": "wu3",
+      "pos": [],
+      "meanings": [
+        "five",
+        "5"
+      ]
+    },
+    {
+      "id": "午饭",
+      "simplified": "午饭",
+      "traditional": "午飯",
+      "pinyin": "wǔ fàn",
+      "pinyinNumeric": "wu3 fan4",
+      "pos": [],
+      "meanings": [
+        "lunch",
+        "CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+      ]
+    },
+    {
+      "id": "西",
+      "simplified": "西",
+      "traditional": "西",
+      "pinyin": "xī",
+      "pinyinNumeric": "xi1",
+      "pos": [],
+      "meanings": [
+        "west"
+      ]
+    },
+    {
+      "id": "西边",
+      "simplified": "西边",
+      "traditional": "西邊",
+      "pinyin": "xī biān",
+      "pinyinNumeric": "xi1 bian1",
+      "pos": [],
+      "meanings": [
+        "west",
+        "west side",
+        "western part",
+        "to the west of"
+      ]
+    },
+    {
+      "id": "洗",
+      "simplified": "洗",
+      "traditional": "洗",
+      "pinyin": "xǐ",
+      "pinyinNumeric": "xi3",
+      "pos": [],
+      "meanings": [
+        "to wash; to bathe",
+        "to develop (photographs)",
+        "to shuffle (cards etc)",
+        "to erase (a recording)"
+      ]
+    },
+    {
+      "id": "洗手间",
+      "simplified": "洗手间",
+      "traditional": "洗手間",
+      "pinyin": "xǐ shǒu jiān",
+      "pinyinNumeric": "xi3 shou3 jian1",
+      "pos": [],
+      "meanings": [
+        "toilet",
+        "lavatory",
+        "washroom"
+      ]
+    },
+    {
+      "id": "喜欢",
+      "simplified": "喜欢",
+      "traditional": "喜歡",
+      "pinyin": "xǐ huan",
+      "pinyinNumeric": "xi3 huan5",
+      "pos": [],
+      "meanings": [
+        "to like; to be fond of"
+      ]
+    },
+    {
+      "id": "下",
+      "simplified": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "pinyinNumeric": "xia4",
+      "pos": [],
+      "meanings": [
+        "down",
+        "downwards",
+        "below",
+        "lower",
+        "later",
+        "next (week etc)",
+        "second (of two parts)",
+        "to decline",
+        "to go down",
+        "to arrive at (a decision, conclusion etc)",
+        "measure word to show the frequency of an action"
+      ]
+    },
+    {
+      "id": "下班",
+      "simplified": "下班",
+      "traditional": "下班",
+      "pinyin": "xià bān",
+      "pinyinNumeric": "xia4 ban1",
+      "pos": [],
+      "meanings": [
+        "to finish work; to get off work",
+        "next service (train, bus etc)"
+      ]
+    },
+    {
+      "id": "下边",
+      "simplified": "下边",
+      "traditional": "下邊",
+      "pinyin": "xià bian",
+      "pinyinNumeric": "xia4 bian5",
+      "pos": [],
+      "meanings": [
+        "under",
+        "the underside",
+        "below"
+      ]
+    },
+    {
+      "id": "下车",
+      "simplified": "下车",
+      "traditional": "下車",
+      "pinyin": "xià chē",
+      "pinyinNumeric": "xia4 che1",
+      "pos": [],
+      "meanings": [
+        "to get off or out of (a bus, train, car etc)"
+      ]
+    },
+    {
+      "id": "下次",
+      "simplified": "下次",
+      "traditional": "下次",
+      "pinyin": "xià cì",
+      "pinyinNumeric": "xia4 ci4",
+      "pos": [],
+      "meanings": [
+        "next time"
+      ]
+    },
+    {
+      "id": "下课",
+      "simplified": "下课",
+      "traditional": "下課",
+      "pinyin": "xià kè",
+      "pinyinNumeric": "xia4 ke4",
+      "pos": [],
+      "meanings": [
+        "to finish class",
+        "to get out of class",
+        "(fig.) (esp. of a sports coach) to be dismissed",
+        "to be fired"
+      ]
+    },
+    {
+      "id": "下午",
+      "simplified": "下午",
+      "traditional": "下午",
+      "pinyin": "xià wǔ",
+      "pinyinNumeric": "xia4 wu3",
+      "pos": [],
+      "meanings": [
+        "afternoon",
+        "CL:個|个[ge4]",
+        "p.m."
+      ]
+    },
+    {
+      "id": "下雨",
+      "simplified": "下雨",
+      "traditional": "下雨",
+      "pinyin": "xià yǔ",
+      "pinyinNumeric": "xia4 yu3",
+      "pos": [],
+      "meanings": [
+        "to rain"
+      ]
+    },
+    {
+      "id": "先",
+      "simplified": "先",
+      "traditional": "先",
+      "pinyin": "xiān",
+      "pinyinNumeric": "xian1",
+      "pos": [],
+      "meanings": [
+        "beforehand; first; earlier",
+        "at first; originally",
+        "for the time being; for now",
+        "(prefix) my late (in referring to deceased relatives older than oneself)"
+      ]
+    },
+    {
+      "id": "先生",
+      "simplified": "先生",
+      "traditional": "先生",
+      "pinyin": "xiān sheng",
+      "pinyinNumeric": "xian1 sheng5",
+      "pos": [],
+      "meanings": [
+        "teacher",
+        "gentleman; sir; mister (Mr.)",
+        "husband",
+        "(dialect) doctor",
+        "CL:位[wei4]"
+      ]
+    },
+    {
+      "id": "现在",
+      "simplified": "现在",
+      "traditional": "現在",
+      "pinyin": "xiàn zài",
+      "pinyinNumeric": "xian4 zai4",
+      "pos": [],
+      "meanings": [
+        "now; at present; currently"
+      ]
+    },
+    {
+      "id": "想",
+      "simplified": "想",
+      "traditional": "想",
+      "pinyin": "xiǎng",
+      "pinyinNumeric": "xiang3",
+      "pos": [],
+      "meanings": [
+        "to think (about)",
+        "to think of; to devise",
+        "to think (that); to believe (that)",
+        "to desire; to want (to)",
+        "to miss (feel wistful about the absence of)"
+      ]
+    },
+    {
+      "id": "小",
+      "simplified": "小",
+      "traditional": "小",
+      "pinyin": "xiǎo",
+      "pinyinNumeric": "xiao3",
+      "pos": [],
+      "meanings": [
+        "small",
+        "tiny",
+        "few",
+        "young"
+      ]
+    },
+    {
+      "id": "小孩儿",
+      "simplified": "小孩儿",
+      "traditional": "小孩兒",
+      "pinyin": "xiǎo hái r",
+      "pinyinNumeric": "xiao3 hai2 r5",
+      "pos": [],
+      "meanings": [
+        "erhua variant of 小孩[xiao3 hai2]"
+      ]
+    },
+    {
+      "id": "小姐",
+      "simplified": "小姐",
+      "traditional": "小姐",
+      "pinyin": "xiǎo jie",
+      "pinyinNumeric": "xiao3 jie5",
+      "pos": [],
+      "meanings": [
+        "young lady",
+        "miss",
+        "(slang) prostitute",
+        "CL:個|个[ge4],位[wei4]"
+      ]
+    },
+    {
+      "id": "小朋友",
+      "simplified": "小朋友",
+      "traditional": "小朋友",
+      "pinyin": "xiǎo péng yǒu",
+      "pinyinNumeric": "xiao3 peng2 you3",
+      "pos": [],
+      "meanings": [
+        "child; kid (used to refer to a child, or by an adult to address a child, or, in Taiwan, to refer to sb's own child)"
+      ]
+    },
+    {
+      "id": "小时",
+      "simplified": "小时",
+      "traditional": "小時",
+      "pinyin": "xiǎo shí",
+      "pinyinNumeric": "xiao3 shi2",
+      "pos": [],
+      "meanings": [
+        "hour",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "小学",
+      "simplified": "小学",
+      "traditional": "小學",
+      "pinyin": "xiǎo xué",
+      "pinyinNumeric": "xiao3 xue2",
+      "pos": [],
+      "meanings": [
+        "elementary school; primary school"
+      ]
+    },
+    {
+      "id": "小学生",
+      "simplified": "小学生",
+      "traditional": "小學生",
+      "pinyin": "xiǎo xué shēng",
+      "pinyinNumeric": "xiao3 xue2 sheng1",
+      "pos": [],
+      "meanings": [
+        "primary school student",
+        "schoolchild",
+        "CL:個|个[ge4],名[ming2]",
+        "(fig.) beginner"
+      ]
+    },
+    {
+      "id": "笑",
+      "simplified": "笑",
+      "traditional": "咲",
+      "pinyin": "xiào",
+      "pinyinNumeric": "xiao4",
+      "pos": [],
+      "meanings": [
+        "old variant of 笑[xiao4]"
+      ]
+    },
+    {
+      "id": "写",
+      "simplified": "写",
+      "traditional": "寫",
+      "pinyin": "xiě",
+      "pinyinNumeric": "xie3",
+      "pos": [],
+      "meanings": [
+        "to write"
+      ]
+    },
+    {
+      "id": "谢谢",
+      "simplified": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "pinyinNumeric": "xie4 xie5",
+      "pos": [],
+      "meanings": [
+        "to thank",
+        "thanks",
+        "thank you"
+      ]
+    },
+    {
+      "id": "新",
+      "simplified": "新",
+      "traditional": "新",
+      "pinyin": "xīn",
+      "pinyinNumeric": "xin1",
+      "pos": [],
+      "meanings": [
+        "new",
+        "newly",
+        "meso- (chemistry)"
+      ]
+    },
+    {
+      "id": "新年",
+      "simplified": "新年",
+      "traditional": "新年",
+      "pinyin": "xīn nián",
+      "pinyinNumeric": "xin1 nian2",
+      "pos": [],
+      "meanings": [
+        "New Year",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "星期",
+      "simplified": "星期",
+      "traditional": "星期",
+      "pinyin": "xīng qī",
+      "pinyinNumeric": "xing1 qi1",
+      "pos": [],
+      "meanings": [
+        "week",
+        "CL:個|个[ge4]",
+        "day of the week",
+        "Sunday"
+      ]
+    },
+    {
+      "id": "星期日",
+      "simplified": "星期日",
+      "traditional": "星期日",
+      "pinyin": "Xīng qī rì",
+      "pinyinNumeric": "Xing1 qi1 ri4",
+      "pos": [],
+      "meanings": [
+        "Sunday"
+      ]
+    },
+    {
+      "id": "星期天",
+      "simplified": "星期天",
+      "traditional": "星期天",
+      "pinyin": "Xīng qī tiān",
+      "pinyinNumeric": "Xing1 qi1 tian1",
+      "pos": [],
+      "meanings": [
+        "Sunday"
+      ]
+    },
+    {
+      "id": "行",
+      "simplified": "行",
+      "traditional": "行",
+      "pinyin": "xíng",
+      "pinyinNumeric": "xing2",
+      "pos": [],
+      "meanings": [
+        "(bound form) to walk; to go; to travel",
+        "(literary) trip; journey; visit",
+        "(bound form) temporary; makeshift",
+        "(bound form) current; in circulation",
+        "(bound form) to do; to perform",
+        "capable; competent",
+        "all right; OK!; will do",
+        "behavior; conduct (Taiwan pr. [xing4])",
+        "(literary) about to; soon"
+      ]
+    },
+    {
+      "id": "休息",
+      "simplified": "休息",
+      "traditional": "休息",
+      "pinyin": "xiū xi",
+      "pinyinNumeric": "xiu1 xi5",
+      "pos": [],
+      "meanings": [
+        "rest",
+        "to rest"
+      ]
+    },
+    {
+      "id": "学",
+      "simplified": "学",
+      "traditional": "學",
+      "pinyin": "xué",
+      "pinyinNumeric": "xue2",
+      "pos": [],
+      "meanings": [
+        "to learn",
+        "to study",
+        "to imitate",
+        "science",
+        "-ology"
+      ]
+    },
+    {
+      "id": "学生",
+      "simplified": "学生",
+      "traditional": "學生",
+      "pinyin": "xué sheng",
+      "pinyinNumeric": "xue2 sheng5",
+      "pos": [],
+      "meanings": [
+        "student",
+        "schoolchild"
+      ]
+    },
+    {
+      "id": "学习",
+      "simplified": "学习",
+      "traditional": "學習",
+      "pinyin": "xué xí",
+      "pinyinNumeric": "xue2 xi2",
+      "pos": [],
+      "meanings": [
+        "to learn; to study"
+      ]
+    },
+    {
+      "id": "学校",
+      "simplified": "学校",
+      "traditional": "學校",
+      "pinyin": "xué xiào",
+      "pinyinNumeric": "xue2 xiao4",
+      "pos": [],
+      "meanings": [
+        "school",
+        "CL:所[suo3]"
+      ]
+    },
+    {
+      "id": "学院",
+      "simplified": "学院",
+      "traditional": "學院",
+      "pinyin": "xué yuàn",
+      "pinyinNumeric": "xue2 yuan4",
+      "pos": [],
+      "meanings": [
+        "college",
+        "educational institute",
+        "school",
+        "faculty",
+        "CL:所[suo3]"
+      ]
+    },
+    {
+      "id": "要",
+      "simplified": "要",
+      "traditional": "要",
+      "pinyin": "yào",
+      "pinyinNumeric": "yao4",
+      "pos": [],
+      "meanings": [
+        "to want; to need; to ask for",
+        "will; shall; about to",
+        "need to; should",
+        "if (same as 要是[yao4 shi5])",
+        "(bound form) important"
+      ]
+    },
+    {
+      "id": "爷爷",
+      "simplified": "爷爷",
+      "traditional": "爺爺",
+      "pinyin": "yé ye",
+      "pinyinNumeric": "ye2 ye5",
+      "pos": [],
+      "meanings": [
+        "(coll.) paternal grandfather; grandpa"
+      ]
+    },
+    {
+      "id": "也",
+      "simplified": "也",
+      "traditional": "也",
+      "pinyin": "yě",
+      "pinyinNumeric": "ye3",
+      "pos": [],
+      "meanings": [
+        "also; too; as well; (not ...) either",
+        "(used after a verbal or nominal expression X to indicate that X is an extreme or unexpected case) even (X)",
+        "(literary) particle having functions similar to 啊[a5]"
+      ]
+    },
+    {
+      "id": "页",
+      "simplified": "页",
+      "traditional": "頁",
+      "pinyin": "yè",
+      "pinyinNumeric": "ye4",
+      "pos": [],
+      "meanings": [
+        "page",
+        "leaf"
+      ]
+    },
+    {
+      "id": "一",
+      "simplified": "一",
+      "traditional": "一",
+      "pinyin": "yī",
+      "pinyinNumeric": "yi1",
+      "pos": [],
+      "meanings": [
+        "one",
+        "single",
+        "a (article)",
+        "as soon as",
+        "entire; whole; all; throughout",
+        "\"one\" radical in Chinese characters (Kangxi radical 1)",
+        "also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+      ]
+    },
+    {
+      "id": "一半",
+      "simplified": "一半",
+      "traditional": "一半",
+      "pinyin": "yī bàn",
+      "pinyinNumeric": "yi1 ban4",
+      "pos": [],
+      "meanings": [
+        "half"
+      ]
+    },
+    {
+      "id": "一边",
+      "simplified": "一边",
+      "traditional": "一邊",
+      "pinyin": "yī biān",
+      "pinyinNumeric": "yi1 bian1",
+      "pos": [],
+      "meanings": [
+        "one side",
+        "either side",
+        "on the one hand",
+        "on the other hand",
+        "doing while"
+      ]
+    },
+    {
+      "id": "一点儿",
+      "simplified": "一点儿",
+      "traditional": "一點兒",
+      "pinyin": "yī diǎn r",
+      "pinyinNumeric": "yi1 dian3 r5",
+      "pos": [],
+      "meanings": [
+        "erhua variant of 一點|一点[yi1 dian3]"
+      ]
+    },
+    {
+      "id": "一会儿",
+      "simplified": "一会儿",
+      "traditional": "一會兒",
+      "pinyin": "yī huì r",
+      "pinyinNumeric": "yi1 hui4 r5",
+      "pos": [],
+      "meanings": [
+        "a moment",
+        "a while",
+        "in a moment",
+        "now...now...",
+        "also pr. [yi1 hui3 r5]"
+      ]
+    },
+    {
+      "id": "一块儿",
+      "simplified": "一块儿",
+      "traditional": "一塊兒",
+      "pinyin": "yī kuài r",
+      "pinyinNumeric": "yi1 kuai4 r5",
+      "pos": [],
+      "meanings": [
+        "erhua variant of 一塊|一块[yi1 kuai4]"
+      ]
+    },
+    {
+      "id": "一起",
+      "simplified": "一起",
+      "traditional": "一起",
+      "pinyin": "yī qǐ",
+      "pinyinNumeric": "yi1 qi3",
+      "pos": [],
+      "meanings": [
+        "(in) the same place",
+        "together; in company (with)",
+        "altogether; in total",
+        "an instance of; a case of (murder, accident, dispute etc)"
+      ]
+    },
+    {
+      "id": "一下儿",
+      "simplified": "一下儿",
+      "traditional": "一下兒",
+      "pinyin": "yī xià r",
+      "pinyinNumeric": "yi1 xia4 r5",
+      "pos": [],
+      "meanings": [
+        "erhua form of 一下[yi1 xia4]"
+      ]
+    },
+    {
+      "id": "一些",
+      "simplified": "一些",
+      "traditional": "一些",
+      "pinyin": "yī xiē",
+      "pinyinNumeric": "yi1 xie1",
+      "pos": [],
+      "meanings": [
+        "some; a few; a little; (following an adjective) slightly ...er"
+      ]
+    },
+    {
+      "id": "一样",
+      "simplified": "一样",
+      "traditional": "一樣",
+      "pinyin": "yī yàng",
+      "pinyinNumeric": "yi1 yang4",
+      "pos": [],
+      "meanings": [
+        "same",
+        "like",
+        "equal to",
+        "the same as",
+        "just like"
+      ]
+    },
+    {
+      "id": "衣服",
+      "simplified": "衣服",
+      "traditional": "衣服",
+      "pinyin": "yī fu",
+      "pinyinNumeric": "yi1 fu5",
+      "pos": [],
+      "meanings": [
+        "clothes",
+        "CL:件[jian4],套[tao4]"
+      ]
+    },
+    {
+      "id": "医生",
+      "simplified": "医生",
+      "traditional": "醫生",
+      "pinyin": "yī shēng",
+      "pinyinNumeric": "yi1 sheng1",
+      "pos": [],
+      "meanings": [
+        "doctor; medical practitioner"
+      ]
+    },
+    {
+      "id": "医院",
+      "simplified": "医院",
+      "traditional": "醫院",
+      "pinyin": "yī yuàn",
+      "pinyinNumeric": "yi1 yuan4",
+      "pos": [],
+      "meanings": [
+        "hospital",
+        "CL:所[suo3],家[jia1],座[zuo4]"
+      ]
+    },
+    {
+      "id": "用",
+      "simplified": "用",
+      "traditional": "用",
+      "pinyin": "yòng",
+      "pinyinNumeric": "yong4",
+      "pos": [],
+      "meanings": [
+        "to use; to make use of; to employ",
+        "(coverb) with; using",
+        "to need; to have to (usu. used in the negative or in questions)",
+        "usefulness; utility",
+        "(bound form) expense; outlay",
+        "(courteous) to eat; to drink",
+        "(literary) hence; therefore"
+      ]
+    },
+    {
+      "id": "有",
+      "simplified": "有",
+      "traditional": "有",
+      "pinyin": "yǒu",
+      "pinyinNumeric": "you3",
+      "pos": [],
+      "meanings": [
+        "to have; there is",
+        "(bound form) having; with; -ful; -ed; -al (as in 有意[you3 yi4] intentional)"
+      ]
+    },
+    {
+      "id": "有的",
+      "simplified": "有的",
+      "traditional": "有的",
+      "pinyin": "yǒu de",
+      "pinyinNumeric": "you3 de5",
+      "pos": [],
+      "meanings": [
+        "(there are) some (who are...)",
+        "some (exist)"
+      ]
+    },
+    {
+      "id": "有名",
+      "simplified": "有名",
+      "traditional": "有名",
+      "pinyin": "yǒu míng",
+      "pinyinNumeric": "you3 ming2",
+      "pos": [],
+      "meanings": [
+        "famous",
+        "well-known"
+      ]
+    },
+    {
+      "id": "有时候",
+      "simplified": "有时候",
+      "traditional": "有時候",
+      "pinyin": "yǒu shí hou",
+      "pinyinNumeric": "you3 shi2 hou5",
+      "pos": [],
+      "meanings": [
+        "sometimes"
+      ]
+    },
+    {
+      "id": "有些",
+      "simplified": "有些",
+      "traditional": "有些",
+      "pinyin": "yǒu xiē",
+      "pinyinNumeric": "you3 xie1",
+      "pos": [],
+      "meanings": [
+        "some",
+        "somewhat; rather; a bit"
+      ]
+    },
+    {
+      "id": "有一些",
+      "simplified": "有一些",
+      "traditional": "有一些",
+      "pinyin": "yǒu yī xiē",
+      "pinyinNumeric": "you3 yi1 xie1",
+      "pos": [],
+      "meanings": [
+        "somewhat",
+        "rather",
+        "some"
+      ]
+    },
+    {
+      "id": "有用",
+      "simplified": "有用",
+      "traditional": "有用",
+      "pinyin": "yǒu yòng",
+      "pinyinNumeric": "you3 yong4",
+      "pos": [],
+      "meanings": [
+        "useful"
+      ]
+    },
+    {
+      "id": "右",
+      "simplified": "右",
+      "traditional": "右",
+      "pinyin": "yòu",
+      "pinyinNumeric": "you4",
+      "pos": [],
+      "meanings": [
+        "(bound form) right; right-hand side",
+        "(bound form) (politics) right of center",
+        "(bound form) (old) west",
+        "(literary) the right side as the side of precedence"
+      ]
+    },
+    {
+      "id": "右边",
+      "simplified": "右边",
+      "traditional": "右邊",
+      "pinyin": "yòu bian",
+      "pinyinNumeric": "you4 bian5",
+      "pos": [],
+      "meanings": [
+        "right side",
+        "right, to the right"
+      ]
+    },
+    {
+      "id": "雨",
+      "simplified": "雨",
+      "traditional": "雨",
+      "pinyin": "yǔ",
+      "pinyinNumeric": "yu3",
+      "pos": [],
+      "meanings": [
+        "rain",
+        "CL:陣|阵[zhen4],場|场[chang2]"
+      ]
+    },
+    {
+      "id": "元",
+      "simplified": "元",
+      "traditional": "元",
+      "pinyin": "yuán",
+      "pinyinNumeric": "yuan2",
+      "pos": [],
+      "meanings": [
+        "currency unit (esp. Chinese yuan)",
+        "(bound form) first; original; primary",
+        "(bound form) basic; fundamental",
+        "(bound form) constituent; part",
+        "(prefix) meta-",
+        "(math.) argument; variable",
+        "era (of a reign)",
+        "(Tw) (geology) eon"
+      ]
+    },
+    {
+      "id": "远",
+      "simplified": "远",
+      "traditional": "遠",
+      "pinyin": "yuǎn",
+      "pinyinNumeric": "yuan3",
+      "pos": [],
+      "meanings": [
+        "far",
+        "distant",
+        "remote",
+        "(intensifier in a comparison) by far",
+        "much (lower etc)"
+      ]
+    },
+    {
+      "id": "月",
+      "simplified": "月",
+      "traditional": "月",
+      "pinyin": "yuè",
+      "pinyinNumeric": "yue4",
+      "pos": [],
+      "meanings": [
+        "moon",
+        "month",
+        "monthly",
+        "CL:個|个[ge4],輪|轮[lun2]"
+      ]
+    },
+    {
+      "id": "再",
+      "simplified": "再",
+      "traditional": "再",
+      "pinyin": "zài",
+      "pinyinNumeric": "zai4",
+      "pos": [],
+      "meanings": [
+        "again; once more; re-",
+        "further; beyond this point of time",
+        "(before an adjective) more",
+        "then (after sth, and not until then)",
+        "no matter how ... (followed by an adjective or verb, and then (usually) 也[ye3] or 都[dou1] for emphasis)",
+        "(used to introduce additional information, as in 再則|再则[zai4 ze2], 再就是[zai4 jiu4 shi4] etc)",
+        "(literary) to reappear; to reoccur"
+      ]
+    },
+    {
+      "id": "再见",
+      "simplified": "再见",
+      "traditional": "再見",
+      "pinyin": "zài jiàn",
+      "pinyinNumeric": "zai4 jian4",
+      "pos": [],
+      "meanings": [
+        "goodbye",
+        "see you again later"
+      ]
+    },
+    {
+      "id": "在",
+      "simplified": "在",
+      "traditional": "在",
+      "pinyin": "zài",
+      "pinyinNumeric": "zai4",
+      "pos": [],
+      "meanings": [
+        "to exist; to be alive",
+        "(of sb or sth) to be (located) at",
+        "(used before a verb to indicate an action in progress)"
+      ]
+    },
+    {
+      "id": "在家",
+      "simplified": "在家",
+      "traditional": "在家",
+      "pinyin": "zài jiā",
+      "pinyinNumeric": "zai4 jia1",
+      "pos": [],
+      "meanings": [
+        "to be at home",
+        "(at a workplace) to be in (as opposed to being away on official business 出差[chu1 chai1])",
+        "(Buddhism etc) to remain a layman (as opposed to becoming a monk or a nun 出家[chu1 jia1])"
+      ]
+    },
+    {
+      "id": "早",
+      "simplified": "早",
+      "traditional": "早",
+      "pinyin": "zǎo",
+      "pinyinNumeric": "zao3",
+      "pos": [],
+      "meanings": [
+        "early",
+        "morning",
+        "Good morning!",
+        "long ago",
+        "prematurely"
+      ]
+    },
+    {
+      "id": "早饭",
+      "simplified": "早饭",
+      "traditional": "早飯",
+      "pinyin": "zǎo fàn",
+      "pinyinNumeric": "zao3 fan4",
+      "pos": [],
+      "meanings": [
+        "breakfast",
+        "CL:份[fen4],頓|顿[dun4],次[ci4],餐[can1]"
+      ]
+    },
+    {
+      "id": "早上",
+      "simplified": "早上",
+      "traditional": "早上",
+      "pinyin": "zǎo shang",
+      "pinyinNumeric": "zao3 shang5",
+      "pos": [],
+      "meanings": [
+        "early morning",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "怎么",
+      "simplified": "怎么",
+      "traditional": "怎麼",
+      "pinyin": "zěn me",
+      "pinyinNumeric": "zen3 me5",
+      "pos": [],
+      "meanings": [
+        "how?",
+        "what?",
+        "why?"
+      ]
+    },
+    {
+      "id": "站",
+      "simplified": "站",
+      "traditional": "站",
+      "pinyin": "zhàn",
+      "pinyinNumeric": "zhan4",
+      "pos": [],
+      "meanings": [
+        "station",
+        "to stand",
+        "to halt",
+        "to stop",
+        "branch of a company or organization",
+        "website"
+      ]
+    },
+    {
+      "id": "找",
+      "simplified": "找",
+      "traditional": "找",
+      "pinyin": "zhǎo",
+      "pinyinNumeric": "zhao3",
+      "pos": [],
+      "meanings": [
+        "to try to find",
+        "to look for",
+        "to call on sb",
+        "to find",
+        "to seek",
+        "to return",
+        "to give change"
+      ]
+    },
+    {
+      "id": "找到",
+      "simplified": "找到",
+      "traditional": "找到",
+      "pinyin": "zhǎo dào",
+      "pinyinNumeric": "zhao3 dao4",
+      "pos": [],
+      "meanings": [
+        "to find"
+      ]
+    },
+    {
+      "id": "这",
+      "simplified": "这",
+      "traditional": "這",
+      "pinyin": "zhè",
+      "pinyinNumeric": "zhe4",
+      "pos": [],
+      "meanings": [
+        "(pronoun) this; these",
+        "(bound form) this; the (followed by a noun)",
+        "(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhei4], esp. in Beijing)"
+      ]
+    },
+    {
+      "id": "这边",
+      "simplified": "这边",
+      "traditional": "這邊",
+      "pinyin": "zhè biān",
+      "pinyinNumeric": "zhe4 bian1",
+      "pos": [],
+      "meanings": [
+        "this side",
+        "here"
+      ]
+    },
+    {
+      "id": "这儿",
+      "simplified": "这儿",
+      "traditional": "這兒",
+      "pinyin": "zhè r",
+      "pinyinNumeric": "zhe4 r5",
+      "pos": [],
+      "meanings": [
+        "here"
+      ]
+    },
+    {
+      "id": "这里",
+      "simplified": "这里",
+      "traditional": "這裏",
+      "pinyin": "zhè lǐ",
+      "pinyinNumeric": "zhe4 li3",
+      "pos": [],
+      "meanings": [
+        "variant of 這裡|这里[zhe4 li3]"
+      ]
+    },
+    {
+      "id": "这些",
+      "simplified": "这些",
+      "traditional": "這些",
+      "pinyin": "zhè xiē",
+      "pinyinNumeric": "zhe4 xie1",
+      "pos": [],
+      "meanings": [
+        "these"
+      ]
+    },
+    {
+      "id": "着",
+      "simplified": "着",
+      "traditional": "着",
+      "pinyin": "zhe",
+      "pinyinNumeric": "zhe5",
+      "pos": [],
+      "meanings": [
+        "variant of 著|着[zhe5]"
+      ]
+    },
+    {
+      "id": "真",
+      "simplified": "真",
+      "traditional": "真",
+      "pinyin": "zhēn",
+      "pinyinNumeric": "zhen1",
+      "pos": [],
+      "meanings": [
+        "really",
+        "truly",
+        "indeed",
+        "real",
+        "true",
+        "genuine"
+      ]
+    },
+    {
+      "id": "真的",
+      "simplified": "真的",
+      "traditional": "真的",
+      "pinyin": "zhēn de",
+      "pinyinNumeric": "zhen1 de5",
+      "pos": [],
+      "meanings": [
+        "really; truly; indeed",
+        "real; true; genuine",
+        "(math.) proper"
+      ]
+    },
+    {
+      "id": "正",
+      "simplified": "正",
+      "traditional": "正",
+      "pinyin": "zhèng",
+      "pinyinNumeric": "zheng4",
+      "pos": [],
+      "meanings": [
+        "straight",
+        "upright",
+        "proper",
+        "main",
+        "principal",
+        "to correct",
+        "to rectify",
+        "exactly",
+        "just (at that time)",
+        "right (in that place)",
+        "(math.) positive"
+      ]
+    },
+    {
+      "id": "正在",
+      "simplified": "正在",
+      "traditional": "正在",
+      "pinyin": "zhèng zài",
+      "pinyinNumeric": "zheng4 zai4",
+      "pos": [],
+      "meanings": [
+        "to be in the process of (doing sth); to be currently ...-ing"
+      ]
+    },
+    {
+      "id": "知道",
+      "simplified": "知道",
+      "traditional": "知道",
+      "pinyin": "zhī dào",
+      "pinyinNumeric": "zhi1 dao4",
+      "pos": [],
+      "meanings": [
+        "to know; to become aware of",
+        "also pr. [zhi1dao5]"
+      ]
+    },
+    {
+      "id": "知识",
+      "simplified": "知识",
+      "traditional": "知識",
+      "pinyin": "zhī shi",
+      "pinyinNumeric": "zhi1 shi5",
+      "pos": [],
+      "meanings": [
+        "knowledge",
+        "CL:門|门[men2]",
+        "intellectual"
+      ]
+    },
+    {
+      "id": "中",
+      "simplified": "中",
+      "traditional": "中",
+      "pinyin": "zhōng",
+      "pinyinNumeric": "zhong1",
+      "pos": [],
+      "meanings": [
+        "within; among; in",
+        "middle; center",
+        "while (doing sth); during",
+        "(dialect) OK; all right"
+      ]
+    },
+    {
+      "id": "中国",
+      "simplified": "中国",
+      "traditional": "中國",
+      "pinyin": "Zhōng guó",
+      "pinyinNumeric": "Zhong1 guo2",
+      "pos": [],
+      "meanings": [
+        "China"
+      ]
+    },
+    {
+      "id": "中间",
+      "simplified": "中间",
+      "traditional": "中間",
+      "pinyin": "zhōng jiān",
+      "pinyinNumeric": "zhong1 jian1",
+      "pos": [],
+      "meanings": [
+        "the middle; the inside",
+        "in the middle; within; between; among",
+        "during; in the meantime"
+      ]
+    },
+    {
+      "id": "中文",
+      "simplified": "中文",
+      "traditional": "中文",
+      "pinyin": "Zhōng wén",
+      "pinyinNumeric": "Zhong1 wen2",
+      "pos": [],
+      "meanings": [
+        "Chinese language"
+      ]
+    },
+    {
+      "id": "中午",
+      "simplified": "中午",
+      "traditional": "中午",
+      "pinyin": "zhōng wǔ",
+      "pinyinNumeric": "zhong1 wu3",
+      "pos": [],
+      "meanings": [
+        "noon",
+        "midday",
+        "CL:個|个[ge4]"
+      ]
+    },
+    {
+      "id": "中学",
+      "simplified": "中学",
+      "traditional": "中學",
+      "pinyin": "zhōng xué",
+      "pinyinNumeric": "zhong1 xue2",
+      "pos": [],
+      "meanings": [
+        "middle school"
+      ]
+    },
+    {
+      "id": "中学生",
+      "simplified": "中学生",
+      "traditional": "中學生",
+      "pinyin": "zhōng xué shēng",
+      "pinyinNumeric": "zhong1 xue2 sheng1",
+      "pos": [],
+      "meanings": [
+        "middle-school student",
+        "high school student"
+      ]
+    },
+    {
+      "id": "重",
+      "simplified": "重",
+      "traditional": "重",
+      "pinyin": "zhòng",
+      "pinyinNumeric": "zhong4",
+      "pos": [],
+      "meanings": [
+        "heavy",
+        "serious",
+        "to attach importance to"
+      ]
+    },
+    {
+      "id": "重要",
+      "simplified": "重要",
+      "traditional": "重要",
+      "pinyin": "zhòng yào",
+      "pinyinNumeric": "zhong4 yao4",
+      "pos": [],
+      "meanings": [
+        "important; significant; major"
+      ]
+    },
+    {
+      "id": "住",
+      "simplified": "住",
+      "traditional": "住",
+      "pinyin": "zhù",
+      "pinyinNumeric": "zhu4",
+      "pos": [],
+      "meanings": [
+        "to live; to reside; to stay",
+        "to stop; to cease",
+        "(result complement indicating firmness or a stable achieved state)"
+      ]
+    },
+    {
+      "id": "准备",
+      "simplified": "准备",
+      "traditional": "準備",
+      "pinyin": "zhǔn bèi",
+      "pinyinNumeric": "zhun3 bei4",
+      "pos": [],
+      "meanings": [
+        "preparation",
+        "to prepare",
+        "to intend",
+        "to be about to",
+        "reserve (fund)"
+      ]
+    },
+    {
+      "id": "桌子",
+      "simplified": "桌子",
+      "traditional": "桌子",
+      "pinyin": "zhuō zi",
+      "pinyinNumeric": "zhuo1 zi5",
+      "pos": [],
+      "meanings": [
+        "table",
+        "desk",
+        "CL:張|张[zhang1],套[tao4]"
+      ]
+    },
+    {
+      "id": "子",
+      "simplified": "子",
+      "traditional": "子",
+      "pinyin": "zi",
+      "pinyinNumeric": "zi5",
+      "pos": [],
+      "meanings": [
+        "noun suffix, as in 椅子[yi3 zi5] \"chair\""
+      ]
+    },
+    {
+      "id": "字",
+      "simplified": "字",
+      "traditional": "字",
+      "pinyin": "zì",
+      "pinyinNumeric": "zi4",
+      "pos": [],
+      "meanings": [
+        "letter",
+        "symbol",
+        "character",
+        "word",
+        "CL:個|个[ge4]",
+        "courtesy or style name traditionally given to males aged 20 in dynastic China"
+      ]
+    },
+    {
+      "id": "走",
+      "simplified": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "pinyinNumeric": "zou3",
+      "pos": [],
+      "meanings": [
+        "to walk",
+        "to go",
+        "to run",
+        "to move (of vehicle)",
+        "to visit",
+        "to leave",
+        "to go away",
+        "to die (euph.)",
+        "from",
+        "through",
+        "away (in compound verbs, such as 撤走[che4 zou3])",
+        "to change (shape, form, meaning)"
+      ]
+    },
+    {
+      "id": "走路",
+      "simplified": "走路",
+      "traditional": "走路",
+      "pinyin": "zǒu lù",
+      "pinyinNumeric": "zou3 lu4",
+      "pos": [],
+      "meanings": [
+        "to walk; to go on foot",
+        "to leave; to depart",
+        "(informal) to clear off; to beat it",
+        "(of sb who gets fired or resigns) to leave the job; to get out"
+      ]
+    },
+    {
+      "id": "最",
+      "simplified": "最",
+      "traditional": "㝡",
+      "pinyin": "zuì",
+      "pinyinNumeric": "zui4",
+      "pos": [],
+      "meanings": [
+        "variant of 最[zui4]"
+      ]
+    },
+    {
+      "id": "最好",
+      "simplified": "最好",
+      "traditional": "最好",
+      "pinyin": "zuì hǎo",
+      "pinyinNumeric": "zui4 hao3",
+      "pos": [],
+      "meanings": [
+        "best",
+        "had better ...; it would be best to ..."
+      ]
+    },
+    {
+      "id": "最后",
+      "simplified": "最后",
+      "traditional": "最後",
+      "pinyin": "zuì hòu",
+      "pinyinNumeric": "zui4 hou4",
+      "pos": [],
+      "meanings": [
+        "final; last; ultimate",
+        "finally; in the end"
+      ]
+    },
+    {
+      "id": "昨天",
+      "simplified": "昨天",
+      "traditional": "昨天",
+      "pinyin": "zuó tiān",
+      "pinyinNumeric": "zuo2 tian1",
+      "pos": [],
+      "meanings": [
+        "yesterday"
+      ]
+    },
+    {
+      "id": "左",
+      "simplified": "左",
+      "traditional": "左",
+      "pinyin": "zuǒ",
+      "pinyinNumeric": "zuo3",
+      "pos": [],
+      "meanings": [
+        "left",
+        "the Left (politics)",
+        "east",
+        "unorthodox",
+        "queer",
+        "wrong",
+        "differing",
+        "opposite",
+        "variant of 佐[zuo3]"
+      ]
+    },
+    {
+      "id": "左边",
+      "simplified": "左边",
+      "traditional": "左邊",
+      "pinyin": "zuǒ bian",
+      "pinyinNumeric": "zuo3 bian5",
+      "pos": [],
+      "meanings": [
+        "left",
+        "the left side",
+        "to the left of"
+      ]
+    },
+    {
+      "id": "坐",
+      "simplified": "坐",
+      "traditional": "坐",
+      "pinyin": "zuò",
+      "pinyinNumeric": "zuo4",
+      "pos": [],
+      "meanings": [
+        "to sit",
+        "to take a seat",
+        "to take (a bus, airplane etc)",
+        "to bear fruit",
+        "variant of 座[zuo4]"
+      ]
+    },
+    {
+      "id": "坐下",
+      "simplified": "坐下",
+      "traditional": "坐下",
+      "pinyin": "zuò xia",
+      "pinyinNumeric": "zuo4 xia5",
+      "pos": [],
+      "meanings": [
+        "to sit down"
+      ]
+    },
+    {
+      "id": "做",
+      "simplified": "做",
+      "traditional": "做",
+      "pinyin": "zuò",
+      "pinyinNumeric": "zuo4",
+      "pos": [],
+      "meanings": [
+        "to make; to produce",
+        "to write; to compose",
+        "to do; to engage in; to hold (a party etc)",
+        "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+        "(of a thing) to serve as; to be used for",
+        "to assume (an air or manner)"
+      ]
+    }
+  ]
+}
