@@ -1,0 +1,718 @@
+{
+  "⺆": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "⺊": {
+    "group": "1",
+    "subgroup": "3"
+  },
+  "⺌": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "㐅": {
+    "group": "6",
+    "subgroup": "2"
+  },
+  "㕜": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "㕯": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "㞢": {
+    "group": "8",
+    "subgroup": "3"
+  },
+  "㠯": {
+    "group": "9",
+    "subgroup": "1"
+  },
+  "䇂": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "䒑": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "丁": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "丂": {
+    "group": "3",
+    "subgroup": "5"
+  },
+  "不": {
+    "group": "4",
+    "subgroup": "1"
+  },
+  "与": {
+    "group": "3",
+    "subgroup": "5"
+  },
+  "且": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "丙": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "丩": {
+    "group": "4",
+    "subgroup": "1"
+  },
+  "丰": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "丷": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "丸": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "主": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "乀": {
+    "group": "6",
+    "subgroup": "2"
+  },
+  "乃": {
+    "group": "3",
+    "subgroup": "7"
+  },
+  "乍": {
+    "group": "4",
+    "subgroup": "3"
+  },
+  "乙": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "乚": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "乛": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "也": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "亅": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "争": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "亍": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "云": {
+    "group": "4",
+    "subgroup": "2"
+  },
+  "五": {
+    "group": "4",
+    "subgroup": "3"
+  },
+  "井": {
+    "group": "5",
+    "subgroup": "3"
+  },
+  "亠": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "人": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "亼": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "令": {
+    "group": "4",
+    "subgroup": "4"
+  },
+  "儿": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "元": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "免": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "入": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "其": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "具": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "冂": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "冃": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "冖": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "几": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "凡": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "凶": {
+    "group": "6",
+    "subgroup": "2"
+  },
+  "刀": {
+    "group": "3",
+    "subgroup": "3"
+  },
+  "刂": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "力": {
+    "group": "3",
+    "subgroup": "3"
+  },
+  "勹": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "勺": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "匕": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "匸": {
+    "group": "9",
+    "subgroup": "3"
+  },
+  "十": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "卄": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "卖": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "卜": {
+    "group": "4",
+    "subgroup": "1"
+  },
+  "卩": {
+    "group": "3",
+    "subgroup": "7"
+  },
+  "厂": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "厶": {
+    "group": "4",
+    "subgroup": "2"
+  },
+  "又": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "反": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "叚": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "口": {
+    "group": "9",
+    "subgroup": "1"
+  },
+  "只": {
+    "group": "9",
+    "subgroup": "1"
+  },
+  "囗": {
+    "group": "9",
+    "subgroup": "1"
+  },
+  "土": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "垂": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "壬": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "夂": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "夕": {
+    "group": "6",
+    "subgroup": "2"
+  },
+  "大": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "天": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "夭": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "女": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "子": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "孝": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "宀": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "寸": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "射": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "小": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "尔": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "尤": {
+    "group": "5",
+    "subgroup": "2"
+  },
+  "尸": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "屮": {
+    "group": "8",
+    "subgroup": "3"
+  },
+  "山": {
+    "group": "8",
+    "subgroup": "3"
+  },
+  "工": {
+    "group": "8",
+    "subgroup": "2"
+  },
+  "己": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "巳": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "巴": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "巾": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "帀": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "干": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "广": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "廾": {
+    "group": "5",
+    "subgroup": "3"
+  },
+  "弋": {
+    "group": "6",
+    "subgroup": "3"
+  },
+  "彡": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "彳": {
+    "group": "7",
+    "subgroup": "2"
+  },
+  "心": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "忄": {
+    "group": "1",
+    "subgroup": "3"
+  },
+  "戈": {
+    "group": "6",
+    "subgroup": "3"
+  },
+  "戋": {
+    "group": "6",
+    "subgroup": "3"
+  },
+  "戸": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "手": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "扌": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "才": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "攵": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "文": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "斤": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "斥": {
+    "group": "2",
+    "subgroup": "3"
+  },
+  "方": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "日": {
+    "group": "9",
+    "subgroup": "4"
+  },
+  "旦": {
+    "group": "9",
+    "subgroup": "4"
+  },
+  "景": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "曰": {
+    "group": "9",
+    "subgroup": "4"
+  },
+  "曼": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "月": {
+    "group": "9",
+    "subgroup": "4"
+  },
+  "木": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "朩": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "未": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "欠": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "止": {
+    "group": "4",
+    "subgroup": "3"
+  },
+  "毛": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "气": {
+    "group": "5",
+    "subgroup": "1"
+  },
+  "求": {
+    "group": "3",
+    "subgroup": "6"
+  },
+  "灬": {
+    "group": "7",
+    "subgroup": "1"
+  },
+  "爪": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "爫": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "父": {
+    "group": "6",
+    "subgroup": "1"
+  },
+  "爿": {
+    "group": "4",
+    "subgroup": "3"
+  },
+  "片": {
+    "group": "4",
+    "subgroup": "3"
+  },
+  "牙": {
+    "group": "3",
+    "subgroup": "4"
+  },
+  "玉": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "王": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "生": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "田": {
+    "group": "9",
+    "subgroup": "6"
+  },
+  "申": {
+    "group": "9",
+    "subgroup": "6"
+  },
+  "疋": {
+    "group": "1",
+    "subgroup": "2"
+  },
+  "白": {
+    "group": "9",
+    "subgroup": "4"
+  },
+  "目": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "示": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "礻": {
+    "group": "1",
+    "subgroup": "3"
+  },
+  "禾": {
+    "group": "7",
+    "subgroup": "3"
+  },
+  "穴": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "立": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "章": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "竹": {
+    "group": "3",
+    "subgroup": "1"
+  },
+  "糸": {
+    "group": "3",
+    "subgroup": "2"
+  },
+  "纟": {
+    "group": "4",
+    "subgroup": "2"
+  },
+  "羊": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "者": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "耳": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "自": {
+    "group": "9",
+    "subgroup": "5"
+  },
+  "舌": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "艮": {
+    "group": "6",
+    "subgroup": "2"
+  },
+  "艹": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "虫": {
+    "group": "9",
+    "subgroup": "6"
+  },
+  "襾": {
+    "group": "9",
+    "subgroup": "1"
+  },
+  "覀": {
+    "group": "9",
+    "subgroup": "6"
+  },
+  "言": {
+    "group": "2",
+    "subgroup": "1"
+  },
+  "讠": {
+    "group": "1",
+    "subgroup": "1"
+  },
+  "豆": {
+    "group": "2",
+    "subgroup": "2"
+  },
+  "豕": {
+    "group": "6",
+    "subgroup": "4"
+  },
+  "辶": {
+    "group": "1",
+    "subgroup": "2"
+  },
+  "钅": {
+    "group": "1",
+    "subgroup": "1"
+  },
+  "门": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "阝": {
+    "group": "3",
+    "subgroup": "7"
+  },
+  "隹": {
+    "group": "7",
+    "subgroup": "2"
+  },
+  "雨": {
+    "group": "9",
+    "subgroup": "2"
+  },
+  "饣": {
+    "group": "1",
+    "subgroup": "1"
+  },
+  "马": {
+    "group": "3",
+    "subgroup": "5"
+  },
+  "鸟": {
+    "group": "3",
+    "subgroup": "5"
+  },
+  "龰": {
+    "group": "1",
+    "subgroup": "2"
+  },
+  "龶": {
+    "group": "8",
+    "subgroup": "1"
+  },
+  "龷": {
+    "group": "2",
+    "subgroup": "2"
+  }
+}
