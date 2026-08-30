@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:42:06.165Z",
+  "generatedAt": "2026-08-30T19:41:02.988Z",
   "images": [
     {
       "word": "半",
@@ -54,8 +54,16 @@
       "file": "口.png"
     },
     {
+      "word": "门",
+      "file": "门.png"
+    },
+    {
       "word": "日",
       "file": "日.png"
+    },
+    {
+      "word": "生",
+      "file": "生.png"
     },
     {
       "word": "水",
@@ -84,6 +92,18 @@
     {
       "word": "雨",
       "file": "雨.png"
+    },
+    {
+      "word": "早",
+      "file": "早.png"
+    },
+    {
+      "word": "找",
+      "file": "找.png"
+    },
+    {
+      "word": "桌",
+      "file": "桌.png"
     }
   ]
 }
