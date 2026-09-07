@@ -1,8 +1,6 @@
 1:"$Sreact.fragment"
 2:I[39756,["/mandacity/_next/static/chunks/04zv7iyd5fbgp.js","/mandacity/_next/static/chunks/14mrh2-p_w84d.js","/mandacity/_next/static/chunks/25t73y-1qo4_k.js"],"default"]
 3:I[37457,["/mandacity/_next/static/chunks/04zv7iyd5fbgp.js","/mandacity/_next/static/chunks/14mrh2-p_w84d.js","/mandacity/_next/static/chunks/25t73y-1qo4_k.js"],"default"]
-:HL["/mandacity/_next/static/chunks/1yh41p1kl1nt9.css","style"]
-:HL["/mandacity/_next/static/chunks/1b5z105r7s8b0.css","style"]
-:HL["/mandacity/_next/static/chunks/0m74zyu4wycu0.css","style"]
-:HL["/mandacity/_next/static/chunks/0uj8ddce-ep84.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/1yh41p1kl1nt9.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/1b5z105r7s8b0.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/0m74zyu4wycu0.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/0uj8ddce-ep84.css","precedence":"next"}]],["$","div",null,{"className":"noto_serif_sc_4040872d-module__ncwpaq__variable ma_shan_zheng_b42eadbf-module__7nmfwa__variable zhi_mang_xing_faf8388e-module__K5xjxW__variable liu_jian_mao_cao_45701c06-module__B1ox9a__variable","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1u2GCjUTKXW0WNKiX6XFt"}
+:HL["/mandacity/_next/static/chunks/05rco40ahnka3.css","style"]
+:HL["/mandacity/_next/static/chunks/3jgosurfa3u6l.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/05rco40ahnka3.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/mandacity/_next/static/chunks/3jgosurfa3u6l.css","precedence":"next"}]],["$","div",null,{"className":"noto_serif_sc_7605148e-module__93OHFa__variable zhuquefangsong_9d1bc922-module__o2ZM5W__variable lxgwwenkai_a84e7762-module__ZAgOZa__variable ma_shan_zheng_65fb0c1c-module__03kdva__variable","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"MQT9EHIx7jdI1ufHfGYkh"}
