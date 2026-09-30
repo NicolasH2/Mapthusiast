@@ -308,6 +308,8 @@ card style:
 			separator color: rgb(255,50,50)
 	############################# Card sorting / numbering
 	############################# Copyright stuff
+	# Creator illustrator credit: empty until the user enters a name; prefix "Illus. "
+	# Font size and box position below control placement on exported cards.
 	illustrator:
 		left: 57
 		top : 459
