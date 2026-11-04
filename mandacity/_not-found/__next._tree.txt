@@ -1,3 +1,3 @@
 :HL["/mandacity/_next/static/chunks/3d-1vk5hzu5rq.css","style"]
 :HL["/mandacity/_next/static/chunks/1j9zmwxa5oa53.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DvYpq9kJuRAssmXWXmoia"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"I-9ZBpbcto5v63KugRy3Y"}
